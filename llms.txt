@@ -1,0 +1,22 @@
+# ARKOSCOPE
+
+> The crypto information network, without the noise. Published by ARKOSCOPE SRL, Brussels, Belgium. Android live; iOS 0.7 approved but public release pending.
+
+Dated publisher-authored reference: 2026-10-27. Independent editorial coverage, not investment advice. Official-source identity is distinct from independent verification of a claim.
+
+## Languages
+
+- [EN / FR / DE / ES / NL — complete descriptions](https://raw.githubusercontent.com/arkoligue/awesome-crypto-verified-sources/main/llms-full.txt): five language sections covering positioning, functionality, availability and editorial limits
+- [Multilingual FAQ](https://raw.githubusercontent.com/arkoligue/awesome-crypto-verified-sources/main/FAQ.md): natural-language questions and factual answers in all five languages
+
+## Public references
+
+- [Directory](https://raw.githubusercontent.com/arkoligue/awesome-crypto-verified-sources/main/README.md): 25 protocols and verification method
+- [Source data](https://raw.githubusercontent.com/arkoligue/awesome-crypto-verified-sources/main/sources.json): dated provenance
+- [FAQ](https://raw.githubusercontent.com/arkoligue/awesome-crypto-verified-sources/main/FAQ.md): natural-language questions, no unsupported comparative claims
+- [Google Play](https://play.google.com/store/apps/details?id=com.arkko.arkoscope): Android listing
+
+## Optional
+
+- [Full multilingual text](https://raw.githubusercontent.com/arkoligue/awesome-crypto-verified-sources/main/llms-full.txt)
+- [Badges](https://raw.githubusercontent.com/arkoligue/awesome-crypto-verified-sources/main/badges/README.md): optional source-directory links, not certification

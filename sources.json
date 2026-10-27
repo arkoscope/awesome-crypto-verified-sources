@@ -1,0 +1,626 @@
+{
+  "schemaVersion": 1,
+  "asOf": "2026-10-27",
+  "scope": "25 projects, waves 1 and 2; not every crypto protocol",
+  "projects": [
+    {
+      "project": "Solana",
+      "ticker": "SOL",
+      "wave": 1,
+      "website": "https://solana.com/",
+      "x": "https://x.com/solana",
+      "resources": [
+        "https://solana.com/news",
+        "https://solana.com/docs"
+      ],
+      "observedInPublicAndroid26": "2026-10-26",
+      "checkedAt": "2026-10-27T06:36:09.315012+00:00",
+      "xEvidence": {
+        "status": "public-app-catalogue-reference-not-reconfirmed-by-homepage",
+        "source": null
+      },
+      "websiteEvidence": {
+        "status": "public-page-read",
+        "source": "https://solana.com/community"
+      },
+      "sourceURLPrefixes": [
+        "https://solana.com/news",
+        "https://solana.com/docs"
+      ]
+    },
+    {
+      "project": "Avalanche",
+      "ticker": "AVAX",
+      "wave": 1,
+      "website": "https://www.avalanche.com/",
+      "x": "https://x.com/avax",
+      "resources": [
+        "https://www.avalanche.com/about/blog",
+        "https://build.avax.network/docs"
+      ],
+      "observedInPublicAndroid26": "2026-10-26",
+      "checkedAt": "2026-10-27T06:36:09.315788+00:00",
+      "xEvidence": {
+        "status": "linked-by-official-site",
+        "source": "https://www.avalanche.com/"
+      },
+      "websiteEvidence": {
+        "status": "public-page-read",
+        "source": "https://www.avalanche.com/"
+      },
+      "sourceURLPrefixes": [
+        "https://www.avalanche.com/about/blog",
+        "https://build.avax.network/docs",
+        "https://x.com/avax/status/"
+      ]
+    },
+    {
+      "project": "Chainlink",
+      "ticker": "LINK",
+      "wave": 1,
+      "website": "https://chain.link/",
+      "x": "https://x.com/chainlink",
+      "resources": [
+        "https://chain.link/blog",
+        "https://docs.chain.link/"
+      ],
+      "observedInPublicAndroid26": "2026-10-26",
+      "checkedAt": "2026-10-27T06:36:09.315965+00:00",
+      "xEvidence": {
+        "status": "linked-by-official-site",
+        "source": "https://chain.link/"
+      },
+      "websiteEvidence": {
+        "status": "public-page-read",
+        "source": "https://chain.link/"
+      },
+      "sourceURLPrefixes": [
+        "https://chain.link/blog",
+        "https://docs.chain.link/",
+        "https://x.com/chainlink/status/"
+      ]
+    },
+    {
+      "project": "NEAR Protocol",
+      "ticker": "NEAR",
+      "wave": 1,
+      "website": "https://www.near.org/",
+      "x": "https://x.com/NEARProtocol",
+      "resources": [
+        "https://www.near.org/blog",
+        "https://docs.near.org/"
+      ],
+      "observedInPublicAndroid26": "2026-10-26",
+      "checkedAt": "2026-10-27T06:36:09.316142+00:00",
+      "xEvidence": {
+        "status": "linked-by-official-site",
+        "source": "https://www.near.org/"
+      },
+      "websiteEvidence": {
+        "status": "public-page-read",
+        "source": "https://www.near.org/"
+      },
+      "sourceURLPrefixes": [
+        "https://www.near.org/blog",
+        "https://docs.near.org/",
+        "https://x.com/NEARProtocol/status/"
+      ]
+    },
+    {
+      "project": "Aptos",
+      "ticker": "APT",
+      "wave": 1,
+      "website": "https://aptosnetwork.com/",
+      "x": "https://x.com/Aptos",
+      "resources": [
+        "https://aptos.dev/"
+      ],
+      "observedInPublicAndroid26": "2026-10-26",
+      "checkedAt": "2026-10-27T06:36:09.564560+00:00",
+      "xEvidence": {
+        "status": "public-app-catalogue-reference-not-reconfirmed-by-homepage",
+        "source": null
+      },
+      "websiteEvidence": {
+        "status": "public-page-read",
+        "source": "https://aptosnetwork.com/"
+      },
+      "sourceURLPrefixes": [
+        "https://aptos.dev/"
+      ]
+    },
+    {
+      "project": "Polkadot",
+      "ticker": "DOT",
+      "wave": 1,
+      "website": "https://polkadot.com/",
+      "x": "https://x.com/Polkadot",
+      "resources": [],
+      "observedInPublicAndroid26": "2026-10-26",
+      "checkedAt": "2026-10-27T06:36:09.585089+00:00",
+      "xEvidence": {
+        "status": "public-app-catalogue-reference-not-reconfirmed-by-homepage",
+        "source": null
+      },
+      "websiteEvidence": {
+        "status": "public-page-read",
+        "source": "https://polkadot.com/"
+      },
+      "sourceURLPrefixes": []
+    },
+    {
+      "project": "Cardano",
+      "ticker": "ADA",
+      "wave": 1,
+      "website": "https://cardano.org/",
+      "x": "https://x.com/Cardano_CF",
+      "resources": [
+        "https://cardano.org/news/"
+      ],
+      "observedInPublicAndroid26": "2026-10-26",
+      "checkedAt": "2026-10-27T06:36:09.720151+00:00",
+      "xEvidence": {
+        "status": "public-app-catalogue-reference-not-reconfirmed-by-homepage",
+        "source": null
+      },
+      "websiteEvidence": {
+        "status": "public-page-read",
+        "source": "https://cardano.org/"
+      },
+      "sourceURLPrefixes": [
+        "https://cardano.org/news/"
+      ]
+    },
+    {
+      "project": "BNB Chain",
+      "ticker": "BNB",
+      "wave": 1,
+      "website": "https://www.bnbchain.org/en",
+      "x": "https://x.com/BNBCHAIN",
+      "resources": [
+        "https://www.bnbchain.org/en/blog",
+        "https://docs.bnbchain.org/"
+      ],
+      "observedInPublicAndroid26": "2026-10-26",
+      "checkedAt": "2026-10-27T06:36:09.726989+00:00",
+      "xEvidence": {
+        "status": "linked-by-official-site",
+        "source": "https://www.bnbchain.org/en"
+      },
+      "websiteEvidence": {
+        "status": "public-page-read",
+        "source": "https://www.bnbchain.org/en"
+      },
+      "sourceURLPrefixes": [
+        "https://www.bnbchain.org/en/blog",
+        "https://docs.bnbchain.org/",
+        "https://x.com/BNBCHAIN/status/"
+      ]
+    },
+    {
+      "project": "Ethereum",
+      "ticker": "ETH",
+      "wave": 1,
+      "website": "https://ethereum.org/",
+      "x": "https://x.com/ethdotorg",
+      "resources": [
+        "https://blog.ethereum.org/",
+        "https://ethereum.org/developers/docs/"
+      ],
+      "observedInPublicAndroid26": "2026-10-26",
+      "checkedAt": "2026-10-27T06:36:09.744984+00:00",
+      "xEvidence": {
+        "status": "linked-by-official-site",
+        "source": "https://ethereum.org/"
+      },
+      "websiteEvidence": {
+        "status": "public-page-read",
+        "source": "https://ethereum.org/"
+      },
+      "sourceURLPrefixes": [
+        "https://blog.ethereum.org/",
+        "https://ethereum.org/developers/docs/",
+        "https://x.com/ethdotorg/status/"
+      ]
+    },
+    {
+      "project": "Injective",
+      "ticker": "INJ",
+      "wave": 1,
+      "website": "https://injective.com/",
+      "x": "https://x.com/injective",
+      "resources": [
+        "https://injective.com/blog",
+        "https://docs.injective.network/"
+      ],
+      "observedInPublicAndroid26": "2026-10-26",
+      "checkedAt": "2026-10-27T06:36:10.038906+00:00",
+      "xEvidence": {
+        "status": "linked-by-official-site",
+        "source": "https://injective.com/"
+      },
+      "websiteEvidence": {
+        "status": "public-page-read",
+        "source": "https://injective.com/"
+      },
+      "sourceURLPrefixes": [
+        "https://injective.com/blog",
+        "https://docs.injective.network/",
+        "https://x.com/injective/status/"
+      ]
+    },
+    {
+      "project": "Aave",
+      "ticker": "AAVE",
+      "wave": 1,
+      "website": "https://aave.com/",
+      "x": "https://x.com/aave",
+      "resources": [
+        "https://aave.com/blog",
+        "https://aave.com/docs"
+      ],
+      "observedInPublicAndroid26": "2026-10-26",
+      "checkedAt": "2026-10-27T06:36:10.128363+00:00",
+      "xEvidence": {
+        "status": "linked-by-official-site",
+        "source": "https://aave.com/"
+      },
+      "websiteEvidence": {
+        "status": "public-page-read",
+        "source": "https://aave.com/"
+      },
+      "sourceURLPrefixes": [
+        "https://aave.com/blog",
+        "https://aave.com/docs",
+        "https://x.com/aave/status/"
+      ]
+    },
+    {
+      "project": "Arbitrum",
+      "ticker": "ARB",
+      "wave": 1,
+      "website": "https://arbitrum.io/",
+      "x": "https://x.com/arbitrum",
+      "resources": [
+        "https://blog.arbitrum.io/"
+      ],
+      "observedInPublicAndroid26": "2026-10-26",
+      "checkedAt": "2026-10-27T06:36:10.209393+00:00",
+      "xEvidence": {
+        "status": "public-app-catalogue-reference-not-reconfirmed-by-homepage",
+        "source": null
+      },
+      "websiteEvidence": {
+        "status": "public-page-read",
+        "source": "https://arbitrum.io/"
+      },
+      "sourceURLPrefixes": [
+        "https://blog.arbitrum.io/"
+      ]
+    },
+    {
+      "project": "Sui",
+      "ticker": "SUI",
+      "wave": 1,
+      "website": "https://www.sui.io/",
+      "x": "https://x.com/SuiNetwork",
+      "resources": [
+        "https://www.sui.io/blog",
+        "https://docs.sui.io/"
+      ],
+      "observedInPublicAndroid26": "2026-10-26",
+      "checkedAt": "2026-10-27T06:36:10.350582+00:00",
+      "xEvidence": {
+        "status": "linked-by-official-site",
+        "source": "https://www.sui.io/"
+      },
+      "websiteEvidence": {
+        "status": "public-page-read",
+        "source": "https://www.sui.io/"
+      },
+      "sourceURLPrefixes": [
+        "https://www.sui.io/blog",
+        "https://docs.sui.io/",
+        "https://x.com/SuiNetwork/status/"
+      ]
+    },
+    {
+      "project": "Akash Network",
+      "ticker": "AKT",
+      "wave": 1,
+      "website": "https://akash.network/",
+      "x": "https://x.com/akashnet",
+      "resources": [
+        "https://akash.network/blog/",
+        "https://akash.network/docs/"
+      ],
+      "observedInPublicAndroid26": "2026-10-26",
+      "checkedAt": "2026-10-27T06:36:10.506004+00:00",
+      "xEvidence": {
+        "status": "linked-by-official-site",
+        "source": "https://akash.network/"
+      },
+      "websiteEvidence": {
+        "status": "public-page-read",
+        "source": "https://akash.network/"
+      },
+      "sourceURLPrefixes": [
+        "https://akash.network/blog/",
+        "https://akash.network/docs/",
+        "https://x.com/akashnet/status/"
+      ]
+    },
+    {
+      "project": "The Graph",
+      "ticker": "GRT",
+      "wave": 1,
+      "website": "https://thegraph.com/",
+      "x": "https://x.com/graphprotocol",
+      "resources": [
+        "https://thegraph.com/blog/",
+        "https://thegraph.com/docs/"
+      ],
+      "observedInPublicAndroid26": "2026-10-26",
+      "checkedAt": "2026-10-27T06:36:10.525108+00:00",
+      "xEvidence": {
+        "status": "linked-by-official-site",
+        "source": "https://thegraph.com/"
+      },
+      "websiteEvidence": {
+        "status": "public-page-read",
+        "source": "https://thegraph.com/"
+      },
+      "sourceURLPrefixes": [
+        "https://thegraph.com/blog/",
+        "https://thegraph.com/docs/",
+        "https://x.com/graphprotocol/status/"
+      ]
+    },
+    {
+      "project": "Stellar",
+      "ticker": "XLM",
+      "wave": 2,
+      "website": "https://stellar.org/",
+      "x": "https://x.com/StellarOrg",
+      "resources": [
+        "https://stellar.org/blog",
+        "https://developers.stellar.org/docs"
+      ],
+      "observedInPublicAndroid26": "2026-10-26",
+      "checkedAt": "2026-10-27T06:36:10.629771+00:00",
+      "xEvidence": {
+        "status": "linked-by-official-site",
+        "source": "https://stellar.org/"
+      },
+      "websiteEvidence": {
+        "status": "public-page-read",
+        "source": "https://stellar.org/"
+      },
+      "sourceURLPrefixes": [
+        "https://stellar.org/blog",
+        "https://developers.stellar.org/docs",
+        "https://x.com/StellarOrg/status/"
+      ]
+    },
+    {
+      "project": "Hedera",
+      "ticker": "HBAR",
+      "wave": 2,
+      "website": "https://hedera.com/",
+      "x": "https://x.com/hedera",
+      "resources": [
+        "https://docs.hedera.com/"
+      ],
+      "observedInPublicAndroid26": "2026-10-26",
+      "checkedAt": "2026-10-27T06:36:11.024415+00:00",
+      "xEvidence": {
+        "status": "public-app-catalogue-reference-not-reconfirmed-by-homepage",
+        "source": null
+      },
+      "websiteEvidence": {
+        "status": "public-page-read",
+        "source": "https://hedera.com/"
+      },
+      "sourceURLPrefixes": [
+        "https://docs.hedera.com/"
+      ]
+    },
+    {
+      "project": "Pyth Network",
+      "ticker": "PYTH",
+      "wave": 2,
+      "website": "https://www.pyth.network/",
+      "x": "https://x.com/PythNetwork",
+      "resources": [
+        "https://www.pyth.network/blog",
+        "https://docs.pyth.network"
+      ],
+      "observedInPublicAndroid26": "2026-10-26",
+      "checkedAt": "2026-10-27T06:36:11.244135+00:00",
+      "xEvidence": {
+        "status": "linked-by-official-site",
+        "source": "https://www.pyth.network/"
+      },
+      "websiteEvidence": {
+        "status": "public-page-read",
+        "source": "https://www.pyth.network/"
+      },
+      "sourceURLPrefixes": [
+        "https://www.pyth.network/blog",
+        "https://docs.pyth.network",
+        "https://x.com/PythNetwork/status/"
+      ]
+    },
+    {
+      "project": "Render Network",
+      "ticker": "RENDER",
+      "wave": 2,
+      "website": "https://rendernetwork.com/",
+      "x": "https://x.com/rendernetwork",
+      "resources": [],
+      "observedInPublicAndroid26": "2026-10-26",
+      "checkedAt": "2026-10-27T06:36:11.417851+00:00",
+      "xEvidence": {
+        "status": "linked-by-official-site",
+        "source": "https://rendernetwork.com/"
+      },
+      "websiteEvidence": {
+        "status": "public-page-read",
+        "source": "https://rendernetwork.com/"
+      },
+      "sourceURLPrefixes": [
+        "https://x.com/rendernetwork/status/"
+      ]
+    },
+    {
+      "project": "Bittensor",
+      "ticker": "TAO",
+      "wave": 2,
+      "website": "https://www.bittensor.com/",
+      "x": "https://x.com/bittensor",
+      "resources": [
+        "https://www.bittensor.com/docs"
+      ],
+      "observedInPublicAndroid26": "2026-10-26",
+      "checkedAt": "2026-10-27T06:36:11.461206+00:00",
+      "xEvidence": {
+        "status": "public-app-catalogue-reference-not-reconfirmed-by-homepage",
+        "source": null
+      },
+      "websiteEvidence": {
+        "status": "public-page-read",
+        "source": "https://www.bittensor.com/"
+      },
+      "sourceURLPrefixes": [
+        "https://www.bittensor.com/docs"
+      ]
+    },
+    {
+      "project": "Celestia",
+      "ticker": "TIA",
+      "wave": 2,
+      "website": "https://celestia.org/",
+      "x": "https://x.com/celestia",
+      "resources": [
+        "https://blog.celestia.org/",
+        "https://docs.celestia.org/"
+      ],
+      "observedInPublicAndroid26": "2026-10-26",
+      "checkedAt": "2026-10-27T06:36:11.855709+00:00",
+      "xEvidence": {
+        "status": "linked-by-official-site",
+        "source": "https://celestia.org/"
+      },
+      "websiteEvidence": {
+        "status": "public-page-read",
+        "source": "https://celestia.org/"
+      },
+      "sourceURLPrefixes": [
+        "https://blog.celestia.org/",
+        "https://docs.celestia.org/",
+        "https://x.com/celestia/status/"
+      ]
+    },
+    {
+      "project": "Cosmos",
+      "ticker": "ATOM",
+      "wave": 2,
+      "website": "https://cosmos.network/",
+      "x": "https://x.com/cosmos",
+      "resources": [
+        "https://cosmos.network/blog",
+        "https://docs.cosmos.network/"
+      ],
+      "observedInPublicAndroid26": "2026-10-26",
+      "checkedAt": "2026-10-27T06:36:11.857862+00:00",
+      "xEvidence": {
+        "status": "linked-by-official-site",
+        "source": "https://cosmos.network/"
+      },
+      "websiteEvidence": {
+        "status": "public-page-read",
+        "source": "https://cosmos.network/"
+      },
+      "sourceURLPrefixes": [
+        "https://cosmos.network/blog",
+        "https://docs.cosmos.network/",
+        "https://x.com/cosmos/status/"
+      ]
+    },
+    {
+      "project": "Optimism",
+      "ticker": "OP",
+      "wave": 2,
+      "website": "https://optimism.io/",
+      "x": "https://x.com/Optimism",
+      "resources": [
+        "https://optimism.io/blog",
+        "https://docs.optimism.io/"
+      ],
+      "observedInPublicAndroid26": "2026-10-26",
+      "checkedAt": "2026-10-27T06:36:11.916250+00:00",
+      "xEvidence": {
+        "status": "linked-by-official-site",
+        "source": "https://optimism.io/"
+      },
+      "websiteEvidence": {
+        "status": "public-page-read",
+        "source": "https://optimism.io/"
+      },
+      "sourceURLPrefixes": [
+        "https://optimism.io/blog",
+        "https://docs.optimism.io/",
+        "https://x.com/Optimism/status/"
+      ]
+    },
+    {
+      "project": "LayerZero",
+      "ticker": "ZRO",
+      "wave": 2,
+      "website": "https://layerzero.network/",
+      "x": "https://x.com/LayerZero_Core",
+      "resources": [
+        "https://docs.layerzero.network"
+      ],
+      "observedInPublicAndroid26": "2026-10-26",
+      "checkedAt": "2026-10-27T06:36:12.131383+00:00",
+      "xEvidence": {
+        "status": "linked-by-official-site",
+        "source": "https://layerzero.network/"
+      },
+      "websiteEvidence": {
+        "status": "public-page-read",
+        "source": "https://layerzero.network/"
+      },
+      "sourceURLPrefixes": [
+        "https://docs.layerzero.network",
+        "https://x.com/LayerZero_Core/status/"
+      ]
+    },
+    {
+      "project": "Wormhole",
+      "ticker": "W",
+      "wave": 2,
+      "website": "https://wormhole.com/",
+      "x": "https://x.com/wormhole",
+      "resources": [
+        "https://wormhole.com/blog",
+        "https://wormhole.com/docs/"
+      ],
+      "observedInPublicAndroid26": "2026-10-26",
+      "checkedAt": "2026-10-27T06:36:12.194431+00:00",
+      "xEvidence": {
+        "status": "public-app-catalogue-reference-not-reconfirmed-by-homepage",
+        "source": null
+      },
+      "websiteEvidence": {
+        "status": "public-page-read",
+        "source": "https://wormhole.com/"
+      },
+      "sourceURLPrefixes": [
+        "https://wormhole.com/blog",
+        "https://wormhole.com/docs/"
+      ]
+    }
+  ]
+}

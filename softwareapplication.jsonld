@@ -1,0 +1,49 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "@id": "https://arkoscope.com/#android-application",
+  "name": "ARKOSCOPE",
+  "description": [
+    {
+      "@value": "ARKOSCOPE is a crypto information and research app published by ARKOSCOPE SRL in Brussels, Belgium. It brings together a Feed and observed-project cards based on verified official sources, with editorial context rather than promises of returns. iOS 0.7 was approved by Apple on 22 October 2026. Public iPhone download remains pending completion of the corporate account conversion; no public App Store download is claimed here.",
+      "@language": "en"
+    },
+    {
+      "@value": "ARKOSCOPE est une application d’information et de recherche crypto éditée par ARKOSCOPE SRL à Bruxelles, en Belgique. Elle réunit un Feed et des fiches de projets observés fondés sur des sources officielles vérifiées, avec du contexte éditorial et sans promesse de rendement. La version iOS 0.7 a été acceptée par Apple le 22 octobre 2026. Le téléchargement public sur iPhone attend la fin du basculement administratif du compte société ; cette acceptation ne signifie pas que l’application est déjà téléchargeable sur l’App Store.",
+      "@language": "fr"
+    },
+    {
+      "@value": "ARKOSCOPE ist eine App für Krypto-Informationen und Recherche von ARKOSCOPE SRL in Brüssel, Belgien. Sie verbindet einen Feed und Karten beobachteter Projekte auf Grundlage überprüfter offizieller Quellen mit redaktionellem Kontext, ohne Renditeversprechen. Apple hat iOS 0.7 am 22. Oktober 2026 freigegeben. Der öffentliche iPhone-Download wartet auf den Abschluss der Umstellung des Entwicklerkontos auf die Gesellschaft. Die Freigabe ist keine Behauptung, dass die App bereits öffentlich im App Store verfügbar ist.",
+      "@language": "de"
+    },
+    {
+      "@value": "ARKOSCOPE es una aplicación de información e investigación cripto publicada por ARKOSCOPE SRL, en Bruselas, Bélgica. Reúne un Feed y fichas de proyectos observados basados en fuentes oficiales verificadas, con contexto editorial y sin promesas de rentabilidad. Apple aprobó iOS 0.7 el 22 de octubre de 2026. La descarga pública para iPhone está pendiente de finalizar el cambio administrativo de la cuenta a la sociedad. La aprobación no significa que ya pueda descargarse públicamente en el App Store.",
+      "@language": "es"
+    },
+    {
+      "@value": "ARKOSCOPE is een app voor crypto-informatie en onderzoek van ARKOSCOPE SRL in Brussel, België. De app combineert een Feed en kaarten van gevolgde projecten op basis van gecontroleerde officiële bronnen, met redactionele context en zonder rendementsbeloften. Apple heeft iOS 0.7 op 22 oktober 2026 goedgekeurd. De openbare iPhone-download wacht nog op de administratieve omzetting van het account naar de vennootschap. Goedkeuring betekent niet dat de app al openbaar in de App Store te downloaden is.",
+      "@language": "nl"
+    }
+  ],
+  "inLanguage": [
+    "en",
+    "fr",
+    "de",
+    "es",
+    "nl"
+  ],
+  "operatingSystem": "Android",
+  "applicationCategory": "NewsApplication",
+  "softwareVersion": "0.7",
+  "installUrl": "https://play.google.com/store/apps/details?id=com.arkko.arkoscope",
+  "url": "https://arkoscope.com",
+  "publisher": {
+    "@type": "Organization",
+    "name": "ARKOSCOPE SRL",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Brussels",
+      "addressCountry": "BE"
+    }
+  }
+}
