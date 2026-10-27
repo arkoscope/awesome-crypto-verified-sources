@@ -15,7 +15,7 @@ const envelope = fields => ({registryAsOf:registry.asOf,...fields,limitations:li
 const annotations = {readOnlyHint:true,destructiveHint:false,idempotentHint:true,openWorldHint:false};
 
 function createServer() {
- const server = new McpServer({name:'arkoscope-public-sources',version:'1.0.0'});
+ const server = new McpServer({name:'arkoscope-public-sources',version:'1.0.1'});
  server.registerTool('list_projects', {
   description:'List projects in the bundled, dated public ARKOSCOPE registry. Optional bounded text filter. No live feed or private API access.',
   inputSchema:z.object({query:z.string().trim().max(80).optional(),wave:z.number().int().min(1).max(3).optional()}),annotations
@@ -32,7 +32,7 @@ function createServer() {
   const matches=registry.projects.filter(p=>[normalize(p.project),normalize(p.ticker),slug(p)].includes(q));
   if(matches.length!==1)return result(envelope({status:matches.length?'ambiguous':'not_found',matches:matches.map(p=>p.project)}));
   const p=matches[0];
-  return result(envelope({status:'found',record:p,directoryURL:'https://arkoligue.github.io/awesome-crypto-verified-sources/en/'+slug(p)+'/'}));
+  return result(envelope({status:'found',record:p,directoryURL:'https://arkoscope.github.io/awesome-crypto-verified-sources/en/'+slug(p)+'/'}));
  });
  server.registerResource('public-source-registry','arkoscope://public/sources',{
   description:'The bundled public registry including dated evidence limitations. No private application data.',mimeType:'application/json'
