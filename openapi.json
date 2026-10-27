@@ -1,0 +1,207 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "ARKOSCOPE Public Sources Registry",
+    "version": "1.1.0",
+    "description": "Read-only dated first-party source records for 35 crypto projects. Evidence limitations must be preserved. No live news, transactions, phishing guarantee or private backend."
+  },
+  "servers": [
+    {
+      "url": "https://arkoligue.github.io/awesome-crypto-verified-sources"
+    }
+  ],
+  "paths": {
+    "/api/projects.json": {
+      "get": {
+        "operationId": "listProjects",
+        "summary": "List the public registry projects and their slugs",
+        "x-openai-isConsequential": false,
+        "responses": {
+          "200": {
+            "description": "Dated project index",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "asOf": {
+                      "type": "string"
+                    },
+                    "projects": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "properties": {
+                          "project": {
+                            "type": "string"
+                          },
+                          "ticker": {
+                            "type": "string"
+                          },
+                          "slug": {
+                            "type": "string"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/projects/{slug}.json": {
+      "get": {
+        "operationId": "getProjectSources",
+        "summary": "Get a project’s sources with dated evidence and limitations",
+        "x-openai-isConsequential": false,
+        "parameters": [
+          {
+            "name": "slug",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "enum": [
+                "solana",
+                "avalanche",
+                "chainlink",
+                "near-protocol",
+                "aptos",
+                "polkadot",
+                "cardano",
+                "bnb-chain",
+                "ethereum",
+                "injective",
+                "aave",
+                "arbitrum",
+                "sui",
+                "akash-network",
+                "the-graph",
+                "stellar",
+                "hedera",
+                "pyth-network",
+                "render-network",
+                "bittensor",
+                "celestia",
+                "cosmos",
+                "optimism",
+                "layerzero",
+                "wormhole",
+                "bitcoin",
+                "bitcoin-cash",
+                "litecoin",
+                "dogecoin",
+                "shiba-inu",
+                "tron",
+                "uniswap",
+                "ethena",
+                "xrp-ledger",
+                "the-open-network"
+              ]
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Public evidence record; a listed account is not automatically reverified",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "asOf": {
+                      "type": "string"
+                    },
+                    "publisher": {
+                      "type": "string"
+                    },
+                    "project": {
+                      "$ref": "#/components/schemas/Project"
+                    },
+                    "attribution": {
+                      "type": "string"
+                    },
+                    "googlePlay": {
+                      "type": "string",
+                      "format": "uri"
+                    }
+                  },
+                  "required": [
+                    "asOf",
+                    "publisher",
+                    "project"
+                  ]
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Project does not exist in this snapshot"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Project": {
+        "type": "object",
+        "properties": {
+          "project": {
+            "type": "string"
+          },
+          "ticker": {
+            "type": "string"
+          },
+          "website": {
+            "type": "string",
+            "format": "uri"
+          },
+          "x": {
+            "type": "string",
+            "format": "uri"
+          },
+          "resources": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "format": "uri"
+            }
+          },
+          "checkedAt": {
+            "type": "string"
+          },
+          "xEvidence": {
+            "type": "object",
+            "properties": {
+              "status": {
+                "type": "string"
+              },
+              "source": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              }
+            }
+          },
+          "scopeNote": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "project",
+          "ticker",
+          "website",
+          "x",
+          "checkedAt",
+          "xEvidence"
+        ]
+      }
+    }
+  },
+  "security": []
+}

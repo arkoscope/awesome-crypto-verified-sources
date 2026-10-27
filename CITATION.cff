@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you reuse this dated public registry, please cite the repository and the exact revision."
+title: "ARKOSCOPE Official Sources Registry"
+type: dataset
+authors:
+  - name: "ARKOSCOPE SRL"
+    city: "Brussels"
+    country: "BE"
+url: "https://arkoligue.github.io/awesome-crypto-verified-sources/"
+repository-code: "https://github.com/arkoligue/awesome-crypto-verified-sources"
+version: "1.1.0"
+date-released: "2026-10-27"
+abstract: "A dated independent directory of first-party web and social references for 35 crypto projects, including evidence levels and multilingual presentation. Not a live news service, project endorsement or security certification."
+keywords:
+  - crypto
+  - source provenance
+  - public registry
+  - MCP
+  - multilingual
+license: MIT

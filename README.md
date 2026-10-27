@@ -61,7 +61,7 @@ The X handles below were present in our reviewed public Android catalogue. **✓
 
 ## Français — méthode et limites
 
-ARKOSCOPE SRL (Bruxelles) propose un point de départ pour retrouver les canaux officiels des 35 projets des vagues 1 et 2. Le référencement ne prouve ni partenariat ni recommandation d’investissement. Les captures de la V2 publique ont confirmé les identités du catalogue le 26 octobre 2026 ; les liens accessibles ont été revus le 27 octobre.
+ARKOSCOPE SRL (Bruxelles) propose un point de départ pour retrouver les canaux officiels des 35 projets des vagues 1, 2 et 3. Le référencement ne prouve ni partenariat ni recommandation d’investissement. Les captures de la V2 publique ont confirmé les identités du catalogue les 26 et 27 octobre 2026 ; les liens accessibles ont été revus le 27 octobre.
 
 Le signe ✓ indique un lien X retrouvé sur le site officiel pendant ce contrôle. ↻ signifie que le compte du catalogue est conservé mais que ce lien n’a pas été reconfirmé par la page d’accueil. Pour une source ↻, repartez du site officiel avant toute réutilisation automatique. Vérifier un canal ne garantit pas la véracité de tous ses messages ni l’absence de piratage.
 
@@ -69,13 +69,13 @@ Android est disponible sur Google Play. iOS 0.7 a été accepté par Apple le 22
 
 ## Attribution
 
-Project names and linked content belong to their respective owners. Links are references, not a grant of rights to reuse third-party images or videos. No copied articles or logos are included. This public package contains ARKOSCOPE’s own directory text only.
+Project names and linked content belong to their respective owners. Links are references, not a grant of rights to reuse third-party images or videos. No third-party articles or videos are republished. The package includes ARKOSCOPE’s directory text and dated authentic application screenshots used for the sharing cards; visible project identifiers remain their owners’ property.
 
 ## Structured multilingual documentation
 
 English · Français · Deutsch · Español · Nederlands — all five complete language sections are included in [llms-full.txt](llms-full.txt) and the [FAQ](FAQ.md).
 
-[Multilingual FAQ](FAQ.md) · [llms.txt](llms.txt) · [llms-full.txt](llms-full.txt) · [SoftwareApplication JSON-LD](softwareapplication.jsonld) · [25 badge snippets](badges/README.md) · [Dated project records](PROJECTS.md)
+[Multilingual FAQ](FAQ.md) · [llms.txt](llms.txt) · [llms-full.txt](llms-full.txt) · [SoftwareApplication JSON-LD](softwareapplication.jsonld) · [Project badge snippets](badges/README.md) · [Dated project records](PROJECTS.md)
 
 This repository is publicly accessible documentation. Inclusion in a search index or an AI answer is not guaranteed. The llms.txt format is a proposal, not a guarantee that any model will read, cite or recommend this application. Structured JSON-LD files in a repository do not by themselves create rich results. No documentation has been deployed to arkoscope.com by this release.
 
@@ -99,3 +99,9 @@ The website contains 175 project pages (35 × 5 languages), five language indexe
 | Ethena | ENA | https://ethena.fi/ | https://x.com/ethena | ✓ official site link |
 | XRP Ledger | XRP | https://xrpl.org/ | https://x.com/RippleXDev | ↻ see dated evidence |
 | The Open Network | GRAM | https://ton.org/ | https://x.com/ton_blockchain | ↻ see dated evidence |
+
+## Static action and dataset reuse
+
+[OpenAPI 3.1 schema](https://arkoligue.github.io/awesome-crypto-verified-sources/openapi.json) · [GPT configuration](docs/GPT-CONFIGURATION.md) · [Dataset card](dataset_card.md) · [Citation](CITATION.cff). The action reads public static JSON only. No GPT Store or HuggingFace publication is implied.
+
+Project sharing cards include dated authentic screenshots of public Android 0.7 (26); app settings and production data were not changed. Previews depend on each platform’s cache and rendering.
