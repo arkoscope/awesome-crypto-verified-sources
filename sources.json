@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "asOf": "2026-10-27",
-  "scope": "25 projects, waves 1 and 2; not every crypto protocol",
+  "scope": "35 projects, waves 1, 2 and 3; not every crypto protocol",
   "projects": [
     {
       "project": "Solana",
@@ -621,6 +621,266 @@
         "https://wormhole.com/blog",
         "https://wormhole.com/docs/"
       ]
+    },
+    {
+      "project": "Bitcoin",
+      "ticker": "BTC",
+      "wave": 3,
+      "website": "https://bitcoin.org/",
+      "x": "https://x.com/bitcoincoreorg",
+      "resources": [
+        "https://bitcoincore.org/en/contact/",
+        "https://developer.bitcoin.org/"
+      ],
+      "observedInPublicAndroid26": "2026-10-27",
+      "checkedAt": "2026-10-27T09:46:26.974930+00:00",
+      "xEvidence": {
+        "status": "linked-by-official-site",
+        "source": "https://bitcoincore.org/en/contact/"
+      },
+      "websiteEvidence": {
+        "status": "public-page-read",
+        "source": "https://bitcoin.org/"
+      },
+      "sourceURLPrefixes": [
+        "https://bitcoincore.org/en/contact/",
+        "https://developer.bitcoin.org/",
+        "https://x.com/bitcoincoreorg/status/"
+      ],
+      "scopeNote": "Bitcoin Core is one implementation and contributor group; it does not represent every participant in Bitcoin."
+    },
+    {
+      "project": "Bitcoin Cash",
+      "ticker": "BCH",
+      "wave": 3,
+      "website": "https://bitcoincash.org/",
+      "x": "https://x.com/bitcoincashnode",
+      "resources": [
+        "https://bitcoincashnode.org/en/",
+        "https://docs.bitcoincashnode.org/"
+      ],
+      "observedInPublicAndroid26": "2026-10-27",
+      "checkedAt": "2026-10-27T09:46:26.974930+00:00",
+      "xEvidence": {
+        "status": "linked-by-official-site",
+        "source": "https://bitcoincashnode.org/en/"
+      },
+      "websiteEvidence": {
+        "status": "public-page-read",
+        "source": "https://bitcoincashnode.org/en/"
+      },
+      "sourceURLPrefixes": [
+        "https://bitcoincashnode.org/en/",
+        "https://docs.bitcoincashnode.org/",
+        "https://x.com/bitcoincashnode/status/"
+      ],
+      "scopeNote": "Bitcoin Cash Node is one implementation; its account is not the voice of the entire network."
+    },
+    {
+      "project": "Litecoin",
+      "ticker": "LTC",
+      "wave": 3,
+      "website": "https://litecoin.com/",
+      "x": "https://x.com/litecoin",
+      "resources": [
+        "https://litecoin.com/litecoin-foundation"
+      ],
+      "observedInPublicAndroid26": "2026-10-27",
+      "checkedAt": "2026-10-27T09:46:26.974930+00:00",
+      "xEvidence": {
+        "status": "public-app-catalogue-reference-not-reconfirmed-by-homepage",
+        "source": null
+      },
+      "websiteEvidence": {
+        "status": "public-page-read",
+        "source": "https://litecoin.com/litecoin-foundation"
+      },
+      "sourceURLPrefixes": [
+        "https://litecoin.com/litecoin-foundation"
+      ],
+      "scopeNote": "The Foundation contact form offers partnerships, business and general enquiries."
+    },
+    {
+      "project": "Dogecoin",
+      "ticker": "DOGE",
+      "wave": 3,
+      "website": "https://dogecoin.com/",
+      "x": "https://x.com/dogecoin",
+      "resources": [
+        "https://foundation.dogecoin.com/"
+      ],
+      "observedInPublicAndroid26": "2026-10-27",
+      "checkedAt": "2026-10-27T09:46:26.974930+00:00",
+      "xEvidence": {
+        "status": "public-app-catalogue-reference-not-reconfirmed-by-homepage",
+        "source": null
+      },
+      "websiteEvidence": {
+        "status": "public-page-read",
+        "source": "https://dogecoin.com/"
+      },
+      "sourceURLPrefixes": [
+        "https://foundation.dogecoin.com/"
+      ],
+      "scopeNote": "The Foundation and developer communities are distinct from the decentralized network."
+    },
+    {
+      "project": "Shiba Inu",
+      "ticker": "SHIB",
+      "wave": 3,
+      "website": "https://shib.io/",
+      "x": "https://x.com/Shibtoken",
+      "resources": [
+        "https://shib.io/get-in-touch/contact-us"
+      ],
+      "observedInPublicAndroid26": "2026-10-27",
+      "checkedAt": "2026-10-27T09:46:26.974930+00:00",
+      "xEvidence": {
+        "status": "linked-by-official-site",
+        "source": "https://shib.io/get-in-touch/contact-us"
+      },
+      "websiteEvidence": {
+        "status": "public-page-read",
+        "source": "https://shib.io/"
+      },
+      "sourceURLPrefixes": [
+        "https://shib.io/get-in-touch/contact-us",
+        "https://x.com/Shibtoken/status/"
+      ],
+      "scopeNote": "The official contact form distinguishes press, partnerships and general enquiries."
+    },
+    {
+      "project": "TRON",
+      "ticker": "TRX",
+      "wave": 3,
+      "website": "https://trondao.org/",
+      "x": "https://x.com/trondao",
+      "resources": [
+        "https://developers.tron.network/",
+        "https://forum.trondao.org/"
+      ],
+      "observedInPublicAndroid26": "2026-10-27",
+      "checkedAt": "2026-10-27T09:46:26.974930+00:00",
+      "xEvidence": {
+        "status": "linked-by-official-site",
+        "source": "https://trondao.org/"
+      },
+      "websiteEvidence": {
+        "status": "public-page-read",
+        "source": "https://trondao.org/"
+      },
+      "sourceURLPrefixes": [
+        "https://developers.tron.network/",
+        "https://forum.trondao.org/",
+        "https://x.com/trondao/status/"
+      ],
+      "scopeNote": "TRON DAO publishes the followed account; the homepage labels its contact for general or ecosystem enquiries."
+    },
+    {
+      "project": "Uniswap",
+      "ticker": "UNI",
+      "wave": 3,
+      "website": "https://uniswap.org/",
+      "x": "https://x.com/Uniswap",
+      "resources": [
+        "https://support.uniswap.org/hc/en-us/articles/17522892515341-Official-Uniswap-Labs-links",
+        "https://github.com/Uniswap/interface"
+      ],
+      "observedInPublicAndroid26": "2026-10-27",
+      "checkedAt": "2026-10-27T09:46:26.974930+00:00",
+      "xEvidence": {
+        "status": "linked-by-official-site",
+        "source": "https://support.uniswap.org/hc/en-us/articles/17522892515341-Official-Uniswap-Labs-links"
+      },
+      "websiteEvidence": {
+        "status": "public-page-read",
+        "source": "https://uniswap.org/"
+      },
+      "sourceURLPrefixes": [
+        "https://support.uniswap.org/hc/en-us/articles/17522892515341-Official-Uniswap-Labs-links",
+        "https://github.com/Uniswap/interface",
+        "https://x.com/Uniswap/status/"
+      ],
+      "scopeNote": "The followed account belongs to Uniswap Labs; this is not a claim to represent every governance participant."
+    },
+    {
+      "project": "Ethena",
+      "ticker": "ENA",
+      "wave": 3,
+      "website": "https://ethena.fi/",
+      "x": "https://x.com/ethena",
+      "resources": [
+        "https://docs.ethena.fi/"
+      ],
+      "observedInPublicAndroid26": "2026-10-27",
+      "checkedAt": "2026-10-27T09:46:26.974930+00:00",
+      "xEvidence": {
+        "status": "linked-by-official-site",
+        "source": "https://docs.ethena.fi/"
+      },
+      "websiteEvidence": {
+        "status": "public-page-read",
+        "source": "https://ethena.fi/"
+      },
+      "sourceURLPrefixes": [
+        "https://docs.ethena.fi/",
+        "https://x.com/ethena/status/"
+      ],
+      "scopeNote": "Source identification does not evaluate protocol, stablecoin or investment risk."
+    },
+    {
+      "project": "XRP Ledger",
+      "ticker": "XRP",
+      "wave": 3,
+      "website": "https://xrpl.org/",
+      "x": "https://x.com/RippleXDev",
+      "resources": [
+        "https://xrpl.org/community",
+        "https://ripple.com/insights/sunsetting-ripplex-io/"
+      ],
+      "observedInPublicAndroid26": "2026-10-27",
+      "checkedAt": "2026-10-27T09:46:26.974930+00:00",
+      "xEvidence": {
+        "status": "linked-by-dated-official-article",
+        "source": "https://ripple.com/insights/sunsetting-ripplex-io/"
+      },
+      "websiteEvidence": {
+        "status": "public-page-read",
+        "source": "https://xrpl.org/"
+      },
+      "sourceURLPrefixes": [
+        "https://xrpl.org/community",
+        "https://ripple.com/insights/sunsetting-ripplex-io/",
+        "https://x.com/RippleXDev/status/"
+      ],
+      "scopeNote": "RippleX is a contributor to the XRP Ledger, not the owner or sole representative of the network. Account evidence is an official Ripple article dated 2021, not a fresh homepage link."
+    },
+    {
+      "project": "The Open Network",
+      "ticker": "GRAM",
+      "wave": 3,
+      "website": "https://ton.org/",
+      "x": "https://x.com/ton_blockchain",
+      "resources": [
+        "https://ton.org/media/",
+        "https://ton.foundation/en"
+      ],
+      "observedInPublicAndroid26": "2026-10-27",
+      "checkedAt": "2026-10-27T09:46:26.974930+00:00",
+      "xEvidence": {
+        "status": "public-app-catalogue-reference-not-reconfirmed-by-homepage",
+        "source": null
+      },
+      "websiteEvidence": {
+        "status": "public-page-read",
+        "source": "https://ton.org/"
+      },
+      "sourceURLPrefixes": [
+        "https://ton.org/media/",
+        "https://ton.foundation/en"
+      ],
+      "scopeNote": "The current official media page identifies GRAM as the token ticker and TON as the blockchain name. This matches the captured public Android catalogue."
     }
-  ]
+  ],
+  "methodology": "Dated directory of first-party entry points. Evidence levels and unconfirmed catalogue references remain explicit. No live news, wallet validation or security certification."
 }

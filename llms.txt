@@ -20,3 +20,11 @@ Dated publisher-authored reference: 2026-10-27. Independent editorial coverage, 
 
 - [Full multilingual text](https://raw.githubusercontent.com/arkoligue/awesome-crypto-verified-sources/main/llms-full.txt)
 - [Badges](https://raw.githubusercontent.com/arkoligue/awesome-crypto-verified-sources/main/badges/README.md): optional source-directory links, not certification
+
+
+## Public directory and local tools
+
+- Multilingual directory: https://arkoligue.github.io/awesome-crypto-verified-sources/
+- Public data: https://github.com/arkoligue/awesome-crypto-verified-sources/blob/main/sources.json
+- MCP: https://github.com/arkoligue/awesome-crypto-verified-sources/tree/main/mcp-server
+- Evidence limitations are part of the data. This is not a live news feed or a security certification.

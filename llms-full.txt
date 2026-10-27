@@ -179,3 +179,127 @@ Apple heeft iOS 0.7 op 22 oktober 2026 goedgekeurd. De openbare iPhone-download 
 ### Betekent een gecontroleerde bron dat iedere bewering klopt?
 
 Een officiële bron identificeert de afzender van een uitspraak; zij bewijst niet onafhankelijk dat de inhoud klopt en garandeert niet dat een account onaangetast is. Onafhankelijke berichtgeving, geen beleggingsadvies. Vermelding en badges betekenen geen partnerschap of goedkeuring door het project.
+
+
+## Public directory and local tools
+
+- Multilingual directory: https://arkoligue.github.io/awesome-crypto-verified-sources/
+- Public data: https://github.com/arkoligue/awesome-crypto-verified-sources/blob/main/sources.json
+- MCP: https://github.com/arkoligue/awesome-crypto-verified-sources/tree/main/mcp-server
+- Evidence limitations are part of the data. This is not a live news feed or a security certification.
+
+## Bitcoin
+
+Ticker: BTC · Wave 3 · checked 2026-10-27
+
+- Official entry point: https://bitcoin.org/
+- X catalogue reference: https://x.com/bitcoincoreorg
+- Evidence status: linked-by-official-site
+- Evidence: https://bitcoincore.org/en/contact/
+- Context: Bitcoin Core is one implementation and contributor group; it does not represent every participant in Bitcoin.
+- Resource: https://bitcoincore.org/en/contact/
+- Resource: https://developer.bitcoin.org/
+
+## Bitcoin Cash
+
+Ticker: BCH · Wave 3 · checked 2026-10-27
+
+- Official entry point: https://bitcoincash.org/
+- X catalogue reference: https://x.com/bitcoincashnode
+- Evidence status: linked-by-official-site
+- Evidence: https://bitcoincashnode.org/en/
+- Context: Bitcoin Cash Node is one implementation; its account is not the voice of the entire network.
+- Resource: https://bitcoincashnode.org/en/
+- Resource: https://docs.bitcoincashnode.org/
+
+## Litecoin
+
+Ticker: LTC · Wave 3 · checked 2026-10-27
+
+- Official entry point: https://litecoin.com/
+- X catalogue reference: https://x.com/litecoin
+- Evidence status: public-app-catalogue-reference-not-reconfirmed-by-homepage
+- Evidence: Public Android catalogue; recheck the official site.
+- Context: The Foundation contact form offers partnerships, business and general enquiries.
+- Resource: https://litecoin.com/litecoin-foundation
+
+## Dogecoin
+
+Ticker: DOGE · Wave 3 · checked 2026-10-27
+
+- Official entry point: https://dogecoin.com/
+- X catalogue reference: https://x.com/dogecoin
+- Evidence status: public-app-catalogue-reference-not-reconfirmed-by-homepage
+- Evidence: Public Android catalogue; recheck the official site.
+- Context: The Foundation and developer communities are distinct from the decentralized network.
+- Resource: https://foundation.dogecoin.com/
+
+## Shiba Inu
+
+Ticker: SHIB · Wave 3 · checked 2026-10-27
+
+- Official entry point: https://shib.io/
+- X catalogue reference: https://x.com/Shibtoken
+- Evidence status: linked-by-official-site
+- Evidence: https://shib.io/get-in-touch/contact-us
+- Context: The official contact form distinguishes press, partnerships and general enquiries.
+- Resource: https://shib.io/get-in-touch/contact-us
+
+## TRON
+
+Ticker: TRX · Wave 3 · checked 2026-10-27
+
+- Official entry point: https://trondao.org/
+- X catalogue reference: https://x.com/trondao
+- Evidence status: linked-by-official-site
+- Evidence: https://trondao.org/
+- Context: TRON DAO publishes the followed account; the homepage labels its contact for general or ecosystem enquiries.
+- Resource: https://developers.tron.network/
+- Resource: https://forum.trondao.org/
+
+## Uniswap
+
+Ticker: UNI · Wave 3 · checked 2026-10-27
+
+- Official entry point: https://uniswap.org/
+- X catalogue reference: https://x.com/Uniswap
+- Evidence status: linked-by-official-site
+- Evidence: https://support.uniswap.org/hc/en-us/articles/17522892515341-Official-Uniswap-Labs-links
+- Context: The followed account belongs to Uniswap Labs; this is not a claim to represent every governance participant.
+- Resource: https://support.uniswap.org/hc/en-us/articles/17522892515341-Official-Uniswap-Labs-links
+- Resource: https://github.com/Uniswap/interface
+
+## Ethena
+
+Ticker: ENA · Wave 3 · checked 2026-10-27
+
+- Official entry point: https://ethena.fi/
+- X catalogue reference: https://x.com/ethena
+- Evidence status: linked-by-official-site
+- Evidence: https://docs.ethena.fi/
+- Context: Source identification does not evaluate protocol, stablecoin or investment risk.
+- Resource: https://docs.ethena.fi/
+
+## XRP Ledger
+
+Ticker: XRP · Wave 3 · checked 2026-10-27
+
+- Official entry point: https://xrpl.org/
+- X catalogue reference: https://x.com/RippleXDev
+- Evidence status: linked-by-dated-official-article
+- Evidence: https://ripple.com/insights/sunsetting-ripplex-io/
+- Context: RippleX is a contributor to the XRP Ledger, not the owner or sole representative of the network. Account evidence is an official Ripple article dated 2021, not a fresh homepage link.
+- Resource: https://xrpl.org/community
+- Resource: https://ripple.com/insights/sunsetting-ripplex-io/
+
+## The Open Network
+
+Ticker: GRAM · Wave 3 · checked 2026-10-27
+
+- Official entry point: https://ton.org/
+- X catalogue reference: https://x.com/ton_blockchain
+- Evidence status: public-app-catalogue-reference-not-reconfirmed-by-homepage
+- Evidence: Public Android catalogue; recheck the official site.
+- Context: The current official media page identifies GRAM as the token ticker and TON as the blockchain name. This matches the captured public Android catalogue.
+- Resource: https://ton.org/media/
+- Resource: https://ton.foundation/en

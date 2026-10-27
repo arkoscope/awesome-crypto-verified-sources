@@ -2,7 +2,7 @@
 
 Maintained by ARKOSCOPE SRL (Brussels) — The crypto information network without the noise. Powering the ARKOSCOPE mobile terminal (Live on Google Play / iOS accepted by Apple).
 
-**Snapshot: 27 October 2026.** A public directory of first-party entry points for the 25 projects in ARKOSCOPE’s first two outreach waves. This is an independent editorial reference, not an endorsement, partnership directory or investment recommendation.
+**Snapshot: 27 October 2026.** A public directory of first-party entry points for the 35 projects in ARKOSCOPE’s first three outreach waves. This is an independent editorial reference, not an endorsement, partnership directory or investment recommendation.
 
 [Get ARKOSCOPE on Google Play](https://play.google.com/store/apps/details?id=com.arkko.arkoscope) · [Website](https://arkoscope.com)
 
@@ -61,7 +61,7 @@ The X handles below were present in our reviewed public Android catalogue. **✓
 
 ## Français — méthode et limites
 
-ARKOSCOPE SRL (Bruxelles) propose un point de départ pour retrouver les canaux officiels des 25 projets des vagues 1 et 2. Le référencement ne prouve ni partenariat ni recommandation d’investissement. Les captures de la V2 publique ont confirmé les identités du catalogue le 26 octobre 2026 ; les liens accessibles ont été revus le 27 octobre.
+ARKOSCOPE SRL (Bruxelles) propose un point de départ pour retrouver les canaux officiels des 35 projets des vagues 1 et 2. Le référencement ne prouve ni partenariat ni recommandation d’investissement. Les captures de la V2 publique ont confirmé les identités du catalogue le 26 octobre 2026 ; les liens accessibles ont été revus le 27 octobre.
 
 Le signe ✓ indique un lien X retrouvé sur le site officiel pendant ce contrôle. ↻ signifie que le compte du catalogue est conservé mais que ce lien n’a pas été reconfirmé par la page d’accueil. Pour une source ↻, repartez du site officiel avant toute réutilisation automatique. Vérifier un canal ne garantit pas la véracité de tous ses messages ni l’absence de piratage.
 
@@ -78,3 +78,24 @@ English · Français · Deutsch · Español · Nederlands — all five complete 
 [Multilingual FAQ](FAQ.md) · [llms.txt](llms.txt) · [llms-full.txt](llms-full.txt) · [SoftwareApplication JSON-LD](softwareapplication.jsonld) · [25 badge snippets](badges/README.md) · [Dated project records](PROJECTS.md)
 
 This repository is publicly accessible documentation. Inclusion in a search index or an AI answer is not guaranteed. The llms.txt format is a proposal, not a guarantee that any model will read, cite or recommend this application. Structured JSON-LD files in a repository do not by themselves create rich results. No documentation has been deployed to arkoscope.com by this release.
+
+## Explore and reuse
+
+[Multilingual directory](https://arkoligue.github.io/awesome-crypto-verified-sources/) · [Read-only MCP server](mcp-server/README.md) · [Site generator](docs/build.mjs)
+
+The website contains 175 project pages (35 × 5 languages), five language indexes and one language selector. It is a source directory, not a live news feed. GitHub Pages deployment is separate from the mobile app and arkoscope.com.
+
+## Wave 3
+
+| Project | Ticker | Official entry point | Followed X reference | Evidence |
+|---|---|---|---|---|
+| Bitcoin | BTC | https://bitcoin.org/ | https://x.com/bitcoincoreorg | ✓ official site link |
+| Bitcoin Cash | BCH | https://bitcoincash.org/ | https://x.com/bitcoincashnode | ✓ official site link |
+| Litecoin | LTC | https://litecoin.com/ | https://x.com/litecoin | ↻ see dated evidence |
+| Dogecoin | DOGE | https://dogecoin.com/ | https://x.com/dogecoin | ↻ see dated evidence |
+| Shiba Inu | SHIB | https://shib.io/ | https://x.com/Shibtoken | ✓ official site link |
+| TRON | TRX | https://trondao.org/ | https://x.com/trondao | ✓ official site link |
+| Uniswap | UNI | https://uniswap.org/ | https://x.com/Uniswap | ✓ official site link |
+| Ethena | ENA | https://ethena.fi/ | https://x.com/ethena | ✓ official site link |
+| XRP Ledger | XRP | https://xrpl.org/ | https://x.com/RippleXDev | ↻ see dated evidence |
+| The Open Network | GRAM | https://ton.org/ | https://x.com/ton_blockchain | ↻ see dated evidence |
