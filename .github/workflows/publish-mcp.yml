@@ -1,0 +1,52 @@
+name: Publish ARKOSCOPE MCP registry entry
+on:
+  workflow_dispatch:
+permissions: {}
+jobs:
+  publish:
+    if: github.repository == 'arkoscope/awesome-crypto-verified-sources' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+      id-token: write
+    steps:
+      - name: Download pinned official registry publisher
+        shell: bash
+        run: |
+          set -euo pipefail
+          curl --fail --location --silent --show-error --output publisher.tar.gz 'https://github.com/modelcontextprotocol/registry/releases/download/v1.8.5/mcp-publisher_linux_amd64.tar.gz'
+          echo '2d151ac57275c9a6684d9d22b1cba81058bab195ea0a162e8fce3c6a5ec32812  publisher.tar.gz' | sha256sum --check
+          tar -xzf publisher.tar.gz mcp-publisher
+      - name: Verify the public organization using GitHub OIDC
+        run: ./mcp-publisher login github-oidc
+      - name: Publish the existing read-only release
+        shell: bash
+        run: |
+          set -euo pipefail
+          cat > server.json <<'JSON'
+          {
+            "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+            "name": "io.github.arkoscope/crypto-verified-sources",
+            "title": "ARKOSCOPE Public Sources",
+            "description": "Read-only, dated public crypto source registry with evidence status. Local stdio; no API keys.",
+            "repository": {
+              "url": "https://github.com/arkoscope/awesome-crypto-verified-sources",
+              "source": "github",
+              "subfolder": "mcp-server"
+            },
+            "version": "1.0.1",
+            "packages": [
+              {
+                "registryType": "mcpb",
+                "identifier": "https://github.com/arkoscope/awesome-crypto-verified-sources/releases/download/mcp-v1.0.1/arkoscope-verified-sources-1.0.1.mcpb",
+                "fileSha256": "4865ca0fa64b4ea5d10a0cb1931c982831d1041cceedcf492c3ae20f9d042a5e",
+                "transport": {
+                  "type": "stdio"
+                }
+              }
+            ]
+          }
+          JSON
+          ./mcp-publisher validate server.json
+          ./mcp-publisher publish server.json
