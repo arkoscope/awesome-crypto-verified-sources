@@ -1,0 +1,8 @@
+ARKOSCOPE public registry action — privacy information
+Updated 27 October 2026. Publisher: ARKOSCOPE SRL, Brussels, Belgium. Contact: admin@arkoscope.com.
+
+This action retrieves static public JSON files from GitHub Pages. It has no login, wallet connection, API key or private ARKOSCOPE backend. The only variable request value is a public project slug from a fixed list. Do not put secrets, personal data or free-form user messages in that value.
+
+ARKOSCOPE adds no analytics or form collection to these static endpoints. GitHub, as hosting provider, may process normal request data such as network addresses under its own privacy policy: https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement . OpenAI processes the ChatGPT conversation and action interactions under its applicable policies. This notice does not claim that hosting requests are anonymous or that a GPT is already published.
+
+For questions about the authored registry, contact admin@arkoscope.com. The mobile app has its own privacy information; this notice covers only these static registry endpoints.
