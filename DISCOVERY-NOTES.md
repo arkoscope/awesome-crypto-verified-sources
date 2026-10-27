@@ -12,7 +12,7 @@ Snapshot: 27 October 2026. This is documentation published by ARKOSCOPE SRL abou
 
 ## Public directory and local tools
 
-- Multilingual directory: https://arkoligue.github.io/awesome-crypto-verified-sources/
-- Public data: https://github.com/arkoligue/awesome-crypto-verified-sources/blob/main/sources.json
-- MCP: https://github.com/arkoligue/awesome-crypto-verified-sources/tree/main/mcp-server
+- Multilingual directory: https://arkoscope.github.io/awesome-crypto-verified-sources/
+- Public data: https://github.com/arkoscope/awesome-crypto-verified-sources/blob/main/sources.json
+- MCP: https://github.com/arkoscope/awesome-crypto-verified-sources/tree/main/mcp-server
 - Evidence limitations are part of the data. This is not a live news feed or a security certification.

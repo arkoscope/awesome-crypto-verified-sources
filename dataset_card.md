@@ -40,4 +40,4 @@ Use `CITATION.cff` and include the exact commit hash and access date.
 ## Mobile app
 [ARKOSCOPE on Google Play](https://play.google.com/store/apps/details?id=com.arkko.arkoscope). iOS 0.7 was approved by Apple on 22 October 2026; public iPhone release awaits the corporate account conversion. This status is dated, not a permanent availability guarantee.
 
-[Source repository](https://github.com/arkoligue/awesome-crypto-verified-sources) · [Public directory](https://arkoligue.github.io/awesome-crypto-verified-sources/)
+[Source repository](https://github.com/arkoscope/awesome-crypto-verified-sources) · [Public directory](https://arkoscope.github.io/awesome-crypto-verified-sources/)

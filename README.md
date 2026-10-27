@@ -81,7 +81,7 @@ This repository is publicly accessible documentation. Inclusion in a search inde
 
 ## Explore and reuse
 
-[Multilingual directory](https://arkoligue.github.io/awesome-crypto-verified-sources/) · [Read-only MCP server](mcp-server/README.md) · [Site generator](docs/build.mjs)
+[Multilingual directory](https://arkoscope.github.io/awesome-crypto-verified-sources/) · [Read-only MCP server](mcp-server/README.md) · [Site generator](docs/build.mjs)
 
 The website contains 175 project pages (35 × 5 languages), five language indexes and one language selector. It is a source directory, not a live news feed. GitHub Pages deployment is separate from the mobile app and arkoscope.com.
 
@@ -102,6 +102,12 @@ The website contains 175 project pages (35 × 5 languages), five language indexe
 
 ## Static action and dataset reuse
 
-[OpenAPI 3.1 schema](https://arkoligue.github.io/awesome-crypto-verified-sources/openapi.json) · [GPT configuration](docs/GPT-CONFIGURATION.md) · [Dataset card](dataset_card.md) · [Citation](CITATION.cff). The action reads public static JSON only. No GPT Store or HuggingFace publication is implied.
+[OpenAPI 3.1 schema](https://arkoscope.github.io/awesome-crypto-verified-sources/openapi.json) · [GPT configuration](docs/GPT-CONFIGURATION.md) · [Dataset card](dataset_card.md) · [Citation](CITATION.cff). The action reads public static JSON only. No GPT Store or HuggingFace publication is implied.
 
 Project sharing cards include dated authentic screenshots of public Android 0.7 (26); app settings and production data were not changed. Previews depend on each platform’s cache and rendering.
+
+## Public source scanner and subscriptions
+
+[Open the ARKOSCOPE source scanner](https://arkoscope.github.io/awesome-crypto-verified-sources/en/). Searches run in your browser against this dated public JSON only. Names and tickers find a project; URLs require exact registry matches. Unconfirmed catalogue references are labelled separately. Unknown does not mean fraudulent, and a match is not a live security certification.
+
+Each project card includes an authentic Android 0.7 (26) screenshot and an optional X share composer. Nothing posts automatically. [RSS](https://arkoscope.github.io/awesome-crypto-verified-sources/feed.xml) and [JSON Feed](https://arkoscope.github.io/awesome-crypto-verified-sources/feed.json) expose the 35 dated directory cards; these are not live news streams.
