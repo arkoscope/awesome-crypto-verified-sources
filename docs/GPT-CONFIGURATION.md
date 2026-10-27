@@ -17,8 +17,8 @@ Answer in the user’s language, including EN/FR/DE/ES/NL. Include a concise sou
 
 ## Action
 Authentication: None.
-Import schema: https://arkoligue.github.io/awesome-crypto-verified-sources/openapi.json
-Privacy URL: https://arkoligue.github.io/awesome-crypto-verified-sources/privacy.txt
+Import schema: https://arkoscope.github.io/awesome-crypto-verified-sources/openapi.json
+Privacy URL: https://arkoscope.github.io/awesome-crypto-verified-sources/privacy.txt
 Only GET /api/projects.json and GET /api/projects/{slug}.json.
 
 ## Conversation starters
