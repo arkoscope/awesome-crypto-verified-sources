@@ -1,5 +1,7 @@
 # Awesome Crypto Verified Sources
 
+
+[![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/github-com-arkoligue-awesome-crypto-verified-sources-tree-main-mcp-server)
 Maintained by ARKOSCOPE SRL (Brussels) — The crypto information network without the noise. Powering the ARKOSCOPE mobile terminal (Live on Google Play / iOS accepted by Apple).
 
 **Snapshot: 27 October 2026.** A public directory of first-party entry points for the 35 projects in ARKOSCOPE’s first three outreach waves. This is an independent editorial reference, not an endorsement, partnership directory or investment recommendation.
