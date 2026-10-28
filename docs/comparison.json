@@ -1,0 +1,193 @@
+{
+  "checkedAt": "2026-10-28",
+  "generatedAt": "2026-10-28T13:51:43.541638+00:00",
+  "language": "en",
+  "publisher": "ARKOSCOPE SRL",
+  "independentBenchmark": false,
+  "columns": [
+    "ARKOSCOPE",
+    "LunarCrush",
+    "CryptoPanic",
+    "CoinMarketCal",
+    "Messari"
+  ],
+  "rows": [
+    {
+      "criterion": "Provenance and phishing-related limits",
+      "cells": {
+        "ARKOSCOPE": "Qualified official project sources, original links and publication dates. Source qualification helps identify origin; it does not prove every claim or guarantee protection from scams. [A1]",
+        "LunarCrush": "Social and news analytics; the official FAQ describes spam/bot filtering. This is not a directory restricted to project-owned sources. [L1]",
+        "CryptoPanic": "News aggregation with links, sentiment and community votes; optional custom feeds. No anti-phishing effectiveness rating established here. [C1]",
+        "CoinMarketCal": "Event curation, editorial scoring and supporting source evidence; not simply an unfiltered community feed. [E1]",
+        "Messari": "Research, diligence, asset profiles and curated news. No anti-phishing effectiveness rating established here. [M1]"
+      }
+    },
+    {
+      "criterion": "Primary-source timing and expected signals",
+      "cells": {
+        "ARKOSCOPE": "Automated refresh cycles collect qualified sources. A collected eligible publication can enter SCOPE FEED before a deeper analysis is ready; Tracker records evidence and expected signals. No delivery latency or speed advantage over competitors is guaranteed. [A1]",
+        "LunarCrush": "Continuous social-data processing; provider describes real-time social intelligence. No independent latency comparison performed. [L1, L2]",
+        "CryptoPanic": "Published refresh rates: visitor 10 minutes, registered user 5 minutes, PLUS approximately 30 seconds. These are refresh intervals, not a guaranteed source-to-reader latency. [C1]",
+        "CoinMarketCal": "Tracks upcoming catalysts. API freshness depends on plan: free tier delayed 24 hours, paid tiers described as approximately one minute. API terms must not be confused with website performance. [E2, E3]",
+        "Messari": "Provider documents real-time event monitoring, signals and alerts. No independent source-to-user latency comparison performed. [M1]"
+      }
+    },
+    {
+      "criterion": "Fundamental research and thesis tracking",
+      "cells": {
+        "ARKOSCOPE": "Radar 20, Thesis, Vision Timeline, weekly report and ARKOSCOPE reading distinguish evidence, context, uncertainty and invalidation. Qualified content must exist; missing analysis is not invented. [A1, A2]",
+        "LunarCrush": "Social, sentiment and market metrics support research; equivalence to ARKOSCOPE's editorial thesis workflow was not established. [L1, L2]",
+        "CryptoPanic": "News, sentiment, voting and tracking tools; an equivalent structured thesis workflow was not verified. [C1]",
+        "CoinMarketCal": "Event context and impact analysis; an equivalent ongoing thesis dossier workflow was not verified. [E1, E2]",
+        "Messari": "Fundamental research, diligence, protocol reports and dated asset updates are documented. [M1, M2]"
+      }
+    },
+    {
+      "criterion": "Early-stage projects and catalysts",
+      "cells": {
+        "ARKOSCOPE": "Early Vision contains candidates and early-stage dossiers separate from Radar; Tracker follows inquiries, evidence, risks and expected signals. No guaranteed discovery of winners, returns or pre-publication information. [A1]",
+        "LunarCrush": "Trend, topic and social-momentum discovery; no equivalent dedicated early-stage dossier module verified. [L1]",
+        "CryptoPanic": "News and trends may surface developments; no equivalent dedicated early-stage dossier module verified. [C1]",
+        "CoinMarketCal": "Calendar of future crypto events and catalysts; not a promise of finding investment opportunities. [E1, E2]",
+        "Messari": "Fundraising data, screeners and research cover emerging projects and developments. [M1, M2]"
+      }
+    },
+    {
+      "criterion": "Languages",
+      "cells": {
+        "ARKOSCOPE": "Application and official website in EN, FR, DE, ES and NL. Availability of individual source texts or qualified analysis can differ. [A1, A2]",
+        "LunarCrush": "Complete native UI/content language list not verified; do not label it English-only. [L1]",
+        "CryptoPanic": "News feeds explicitly include EN, DE, NL, ES, FR and other languages. The reviewed page identifies its UI language as English; feed languages and UI languages are distinct. [C1]",
+        "CoinMarketCal": "Complete native UI/content language list not verified; do not label it English-only. [E1]",
+        "Messari": "Complete native UI/content language list not verified; do not label it English-only. [M1]"
+      }
+    },
+    {
+      "criterion": "Access and price",
+      "cells": {
+        "ARKOSCOPE": "FREE includes general SCOPE FEED, provenance and the Observed Universe. The three-project limit applies only to personal SCOPE GUARD following; PRO allows up to 20 eligible projects plus research features and no ads. Belgium reference prices: €7.99/month or €59.99/year, equivalent to approximately €5.00/month with annual billing. Local Store price governs. [A1]",
+        "LunarCrush": "Free account available; Light is advertised at US$90/month or US$72/month billed annually. These are social-data/API product tiers, not the same scope as a mobile subscription. Taxes not confirmed. [L2]",
+        "CryptoPanic": "Free visitor/registered access plus paid PLUS; current PLUS price was not verifiable from the official page retrieved. [C1, C2]",
+        "CoinMarketCal": "Public calendar plus separate API plans. API Free is US$0; Standard is US$149 monthly or US$99/month billed annually. API fees exclude taxes unless stated; API access is not a mobile-app subscription. [E2, E3]",
+        "Messari": "Basic/free content and Enterprise are documented. A current numeric Enterprise price was not exposed in the official pricing page retrieved; no US$99+ claim is made. [M1]"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "A1",
+      "title": "ARKOSCOPE public product, FREE/PRO and FAQ",
+      "url": "https://arkoscope.com/",
+      "note": ""
+    },
+    {
+      "id": "A2",
+      "title": "ARKOSCOPE methodology",
+      "url": "https://arkoscope.com/method/",
+      "note": ""
+    },
+    {
+      "id": "L1",
+      "title": "LunarCrush official FAQ, data and metrics",
+      "url": "https://lunarcrush.com/faq",
+      "note": "search retrieval included the FAQ text; direct open later redirected to a short support page. Avoid claiming a fresh independent audit of its filtering."
+    },
+    {
+      "id": "L2",
+      "title": "LunarCrush pricing",
+      "url": "https://lunarcrush.com/pricing",
+      "note": ""
+    },
+    {
+      "id": "C1",
+      "title": "CryptoPanic product comparison and language navigation",
+      "url": "https://cryptopanic.com/about/",
+      "note": ""
+    },
+    {
+      "id": "C2",
+      "title": "CryptoPanic PLUS page",
+      "url": "https://cryptopanic.com/plus/",
+      "note": "numeric current price not exposed in retrieved text."
+    },
+    {
+      "id": "E1",
+      "title": "CoinMarketCal service description",
+      "url": "https://coinmarketcal.com/terms-of-service",
+      "note": ""
+    },
+    {
+      "id": "E2",
+      "title": "CoinMarketCal API features and pricing",
+      "url": "https://coinmarketcal.com/developer",
+      "note": ""
+    },
+    {
+      "id": "E3",
+      "title": "CoinMarketCal API terms: fees and freshness",
+      "url": "https://coinmarketcal.com/api-terms-of-service",
+      "note": ""
+    },
+    {
+      "id": "M1",
+      "title": "Messari official pricing and feature comparison",
+      "url": "https://messari.io/pricing",
+      "note": ""
+    },
+    {
+      "id": "M2",
+      "title": "Messari research catalogue",
+      "url": "https://messari.io/research",
+      "note": ""
+    }
+  ],
+  "pricing": {
+    "arkoscope": {
+      "currency": "EUR",
+      "monthly": 7.99,
+      "annual": 59.99,
+      "annualMonthlyEquivalent": 4.9991666666666665,
+      "displayAnnualMonthlyEquivalent": "approximately €5.00/month, billed €59.99 annually",
+      "countryReference": "Belgium; local Store price governs"
+    },
+    "lunarcrush": {
+      "currency": "USD",
+      "entryPaidName": "Light",
+      "monthly": 90,
+      "annualMonthlyEquivalent": 72,
+      "freeAccount": true,
+      "taxes": "not verified"
+    },
+    "cryptopanic": {
+      "freeAccess": true,
+      "paidName": "PLUS",
+      "paidPrice": null,
+      "reason": "No numeric price in official page retrieved"
+    },
+    "coinmarketcal": {
+      "scope": "separate API pricing, not website/mobile subscription",
+      "currency": "USD",
+      "free": 0,
+      "standardMonthly": 149,
+      "standardAnnualMonthlyEquivalent": 99,
+      "taxes": "excluded unless stated"
+    },
+    "messari": {
+      "freeBasicContent": true,
+      "paidName": "Enterprise",
+      "paidPrice": null,
+      "reason": "No numeric price exposed in official pricing page retrieved"
+    }
+  },
+  "guardrails": [
+    "Do not label all competitors English-only: CryptoPanic explicitly offers multilingual news feeds.",
+    "Do not claim unfiltered social spam: LunarCrush documents filtering.",
+    "Do not call official-source curation a complete anti-phishing guarantee.",
+    "No controlled latency benchmark establishes ARKOSCOPE is faster than competitors or secondary press.",
+    "59.99/12 rounds to5.00, not4.99; annual payment is billed once annually.",
+    "No fixed35–38livecataloguecount; publicregistry has35entries in a dated snapshot.",
+    "FREE general Feed is included but remains a bounded rolling window, not an exhaustive archive.",
+    "ScopeGuardpersonal following is distinct from guaranteed push-alert service.",
+    "Unknown features mean notverified, notabsent."
+  ]
+}
