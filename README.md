@@ -2,6 +2,9 @@
 
 
 [![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/github-com-arkoligue-awesome-crypto-verified-sources-tree-main-mcp-server)
+
+<a href="https://alternativeto.net/software/arkoscope/about/?utm_source=badge&utm_medium=referral" target="_blank"><img src="https://alternativeto.net/static/badges/badge-compact-dark.svg" alt="ARKOSCOPE | AlternativeTo" width="171" height="58" style="width: 171px; height: 58px;" /></a>
+
 Maintained by ARKOSCOPE SRL (Brussels) — The crypto information network without the noise. Powering the ARKOSCOPE mobile terminal (Live on Google Play / iOS accepted by Apple).
 
 **Snapshot: 27 October 2026.** A public directory of first-party entry points for the 35 projects in ARKOSCOPE’s first three outreach waves. This is an independent editorial reference, not an endorsement, partnership directory or investment recommendation.
