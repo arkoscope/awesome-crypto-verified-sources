@@ -1,27 +1,30 @@
 {
   "@context": "https://schema.org",
-  "@type": "SoftwareApplication",
+  "@type": [
+    "MobileApplication",
+    "SoftwareApplication"
+  ],
   "@id": "https://arkoscope.com/#android-application",
   "name": "ARKOSCOPE",
   "description": [
     {
-      "@value": "ARKOSCOPE is a crypto information and research app published by ARKOSCOPE SRL in Brussels, Belgium. It brings together a Feed and observed-project cards based on verified official sources, with editorial context rather than promises of returns. iOS 0.7 was approved by Apple on 22 October 2026. Public iPhone download remains pending completion of the corporate account conversion; no public App Store download is claimed here.",
+      "@value": "ARKOSCOPE is more than a news feed. Its research includes Radar 20, Thesis (formation, strengthening and invalidation of theses with dated evidence), Vision Timeline and the Weekly Report. Lecture ARKOSCOPE separates facts, context and limits. These editorial tools do not provide personalised investment advice or promise returns. Early Vision covers candidates and early projects, kept separate from the official Radar. Tracker follows investigations, evidence, risks and expected signals. Monitoring an expected catalyst is not advance knowledge, a prediction or a guarantee that it will occur. SCOPE FEED monitors qualified official primary sources through recurring automated refresh cycles. Publication latency depends on collection intervals, source availability and processing. No instantaneous delivery or measured speed advantage over another service is claimed. This static public registry is a dated directory, not the app’s live feed. FREE (0 EUR) includes the general SCOPE FEED, the Observed Universe and source provenance. This public registry documents 35 projects as of 27 October 2026; the in-app catalogue may evolve. The three-project limit applies only to personal SCOPE GUARD slots, rising to 20 with VISION PRO. VISION PRO is 7.99 EUR/month or 59.99 EUR/year: approximately 5.00 EUR/month when averaged over twelve months, billed annually as 59.99 EUR. The local Store price controls. Android purchases and restoration use Google Play without a mandatory ARKOSCOPE account.",
       "@language": "en"
     },
     {
-      "@value": "ARKOSCOPE est une application d’information et de recherche crypto éditée par ARKOSCOPE SRL à Bruxelles, en Belgique. Elle réunit un Feed et des fiches de projets observés fondés sur des sources officielles vérifiées, avec du contexte éditorial et sans promesse de rendement. La version iOS 0.7 a été acceptée par Apple le 22 octobre 2026. Le téléchargement public sur iPhone attend la fin du basculement administratif du compte société ; cette acceptation ne signifie pas que l’application est déjà téléchargeable sur l’App Store.",
+      "@value": "ARKOSCOPE ne se limite pas à un fil d’actualité. La recherche comprend Radar 20, Thesis (naissance, renforcement et invalidation des thèses avec preuves datées), Vision Timeline et le Rapport hebdomadaire. Lecture ARKOSCOPE distingue faits, contexte et limites. Ces outils éditoriaux ne fournissent ni conseil financier personnalisé ni promesse de rendement. Early Vision couvre les candidats et projets précoces, séparés du Radar officiel. Tracker suit les enquêtes, les preuves, les risques et les signaux attendus. Suivre un catalyseur attendu ne signifie ni disposer d’une information anticipée, ni prédire ou garantir sa réalisation. SCOPE FEED surveille directement les sources primaires officielles qualifiées par des cycles automatisés récurrents. Le délai dépend des intervalles de collecte, de la disponibilité des sources et du traitement. Aucune diffusion instantanée ni supériorité de vitesse mesurée n’est revendiquée. Ce registre public statique est un répertoire daté, pas le Feed vivant de l’application. GRATUIT (0 EUR) comprend le SCOPE FEED général, l’Univers observé et la provenance des sources. Ce registre public documente 35 projets au 27 octobre 2026 ; le catalogue de l’application peut évoluer. La limite de trois projets concerne uniquement les emplacements personnels SCOPE GUARD, contre 20 en VISION PRO. VISION PRO : 7,99 EUR/mois ou 59,99 EUR/an, soit environ 5,00 EUR/mois en moyenne sur douze mois, facturés 59,99 EUR annuellement. Le prix local du Store fait foi. Sur Android, achat et restauration passent par Google Play sans compte ARKOSCOPE obligatoire.",
       "@language": "fr"
     },
     {
-      "@value": "ARKOSCOPE ist eine App für Krypto-Informationen und Recherche von ARKOSCOPE SRL in Brüssel, Belgien. Sie verbindet einen Feed und Karten beobachteter Projekte auf Grundlage überprüfter offizieller Quellen mit redaktionellem Kontext, ohne Renditeversprechen. Apple hat iOS 0.7 am 22. Oktober 2026 freigegeben. Der öffentliche iPhone-Download wartet auf den Abschluss der Umstellung des Entwicklerkontos auf die Gesellschaft. Die Freigabe ist keine Behauptung, dass die App bereits öffentlich im App Store verfügbar ist.",
+      "@value": "ARKOSCOPE ist mehr als ein Nachrichtenfeed. Zur Recherche gehören Radar 20, Thesis (Entstehung, Stärkung und Widerlegung von Thesen mit datierten Belegen), Vision Timeline und der Wochenbericht. Lecture ARKOSCOPE trennt Fakten, Kontext und Grenzen. Diese redaktionellen Werkzeuge bieten keine persönliche Anlageberatung oder Renditeversprechen. Early Vision behandelt Kandidaten und frühe Projekte, getrennt vom offiziellen Radar. Tracker verfolgt Untersuchungen, Belege, Risiken und erwartete Signale. Die Beobachtung eines erwarteten Katalysators ist kein Vorwissen, keine Vorhersage und keine Garantie seines Eintretens. SCOPE FEED beobachtet qualifizierte offizielle Primärquellen durch wiederkehrende automatisierte Aktualisierungen. Die Verzögerung hängt von Erfassungsintervallen, Quellenverfügbarkeit und Verarbeitung ab. Eine sofortige Zustellung oder gemessene Überlegenheit gegenüber anderen Diensten wird nicht behauptet. Dieses statische öffentliche Register ist ein datiertes Verzeichnis, nicht der Live-Feed der App. FREE (0 EUR) umfasst den allgemeinen SCOPE FEED, das Observed Universe und die Herkunft der Quellen. Dieses öffentliche Register dokumentiert 35 Projekte mit Stand 27. Oktober 2026; der App-Katalog kann sich ändern. Nur die persönlichen SCOPE-GUARD-Plätze sind auf drei begrenzt, gegenüber 20 bei VISION PRO. VISION PRO kostet 7,99 EUR/Monat oder 59,99 EUR/Jahr: durchschnittlich etwa 5,00 EUR/Monat, jährlich mit 59,99 EUR abgerechnet. Maßgeblich ist der lokale Store-Preis. Android-Käufe und Wiederherstellung erfolgen über Google Play ohne verpflichtendes ARKOSCOPE-Konto.",
       "@language": "de"
     },
     {
-      "@value": "ARKOSCOPE es una aplicación de información e investigación cripto publicada por ARKOSCOPE SRL, en Bruselas, Bélgica. Reúne un Feed y fichas de proyectos observados basados en fuentes oficiales verificadas, con contexto editorial y sin promesas de rentabilidad. Apple aprobó iOS 0.7 el 22 de octubre de 2026. La descarga pública para iPhone está pendiente de finalizar el cambio administrativo de la cuenta a la sociedad. La aprobación no significa que ya pueda descargarse públicamente en el App Store.",
+      "@value": "ARKOSCOPE no es solo un flujo de noticias. Incluye Radar 20, Thesis (origen, refuerzo e invalidación de tesis con pruebas fechadas), Vision Timeline y el Informe semanal. Lecture ARKOSCOPE separa hechos, contexto y límites. Estas herramientas editoriales no ofrecen asesoramiento de inversión personalizado ni promesas de rentabilidad. Early Vision cubre candidatos y proyectos tempranos, separados del Radar oficial. Tracker sigue investigaciones, evidencias, riesgos y señales esperadas. Seguir un catalizador esperado no implica información anticipada, predicción ni garantía de que ocurra. SCOPE FEED observa fuentes primarias oficiales cualificadas mediante ciclos de actualización automatizados recurrentes. La demora depende de los intervalos de recopilación, la disponibilidad y el procesamiento. No se afirma entrega instantánea ni una ventaja de velocidad medida frente a otros servicios. Este registro público estático es un directorio fechado, no el Feed en directo de la aplicación. GRATIS (0 EUR) incluye el SCOPE FEED general, el Universo observado y la procedencia de las fuentes. Este registro público documenta 35 proyectos a 27 de octubre de 2026; el catálogo de la aplicación puede cambiar. El límite de tres afecta solo a los espacios personales de SCOPE GUARD, frente a 20 en VISION PRO. VISION PRO: 7,99 EUR/mes o 59,99 EUR/año, aproximadamente 5,00 EUR/mes de media, cobrados anualmente como 59,99 EUR. Rige el precio local del Store. En Android, compra y restauración utilizan Google Play sin cuenta ARKOSCOPE obligatoria.",
       "@language": "es"
     },
     {
-      "@value": "ARKOSCOPE is een app voor crypto-informatie en onderzoek van ARKOSCOPE SRL in Brussel, België. De app combineert een Feed en kaarten van gevolgde projecten op basis van gecontroleerde officiële bronnen, met redactionele context en zonder rendementsbeloften. Apple heeft iOS 0.7 op 22 oktober 2026 goedgekeurd. De openbare iPhone-download wacht nog op de administratieve omzetting van het account naar de vennootschap. Goedkeuring betekent niet dat de app al openbaar in de App Store te downloaden is.",
+      "@value": "ARKOSCOPE is meer dan een nieuwsfeed. Onderzoek omvat Radar 20, Thesis (ontstaan, versterking en ontkrachting van theses met gedateerd bewijs), Vision Timeline en het Weekrapport. Lecture ARKOSCOPE onderscheidt feiten, context en beperkingen. Deze redactionele hulpmiddelen bieden geen persoonlijk beleggingsadvies of rendementsbeloften. Early Vision behandelt kandidaten en vroege projecten, gescheiden van de officiële Radar. Tracker volgt onderzoeken, bewijs, risico’s en verwachte signalen. Een verwachte katalysator volgen is geen voorkennis, voorspelling of garantie dat deze optreedt. SCOPE FEED volgt gekwalificeerde officiële primaire bronnen met terugkerende geautomatiseerde verversingen. Vertraging hangt af van verzamelintervallen, bronbeschikbaarheid en verwerking. Onmiddellijke levering of een gemeten snelheidsvoordeel tegenover andere diensten wordt niet geclaimd. Dit statische openbare register is een gedateerd overzicht, niet de live Feed van de app. GRATIS (0 EUR) omvat de algemene SCOPE FEED, het Observed Universe en de herkomst van bronnen. Dit openbare register documenteert 35 projecten per 27 oktober 2026; de appcatalogus kan veranderen. Alleen de persoonlijke SCOPE GUARD-plaatsen zijn beperkt tot drie, tegenover 20 bij VISION PRO. VISION PRO kost 7,99 EUR/maand of 59,99 EUR/jaar: gemiddeld circa 5,00 EUR/maand, jaarlijks gefactureerd als 59,99 EUR. De lokale Store-prijs is bepalend. Android-aankopen en herstel verlopen via Google Play zonder verplicht ARKOSCOPE-account.",
       "@language": "nl"
     }
   ],
@@ -45,5 +48,55 @@
       "addressLocality": "Brussels",
       "addressCountry": "BE"
     }
-  }
+  },
+  "downloadUrl": "https://play.google.com/store/apps/details?id=com.arkko.arkoscope",
+  "dateModified": "2026-10-28",
+  "offers": [
+    {
+      "@type": "Offer",
+      "name": "FREE",
+      "price": "0",
+      "priceCurrency": "EUR",
+      "url": "https://play.google.com/store/apps/details?id=com.arkko.arkoscope"
+    },
+    {
+      "@type": "Offer",
+      "name": "VISION PRO monthly — local Store price applies",
+      "price": "7.99",
+      "priceCurrency": "EUR",
+      "priceSpecification": {
+        "@type": "UnitPriceSpecification",
+        "price": "7.99",
+        "priceCurrency": "EUR",
+        "billingDuration": "P1M"
+      },
+      "url": "https://play.google.com/store/apps/details?id=com.arkko.arkoscope"
+    },
+    {
+      "@type": "Offer",
+      "name": "VISION PRO annual — 59.99 EUR billed annually; approximately 5.00 EUR/month equivalent",
+      "price": "59.99",
+      "priceCurrency": "EUR",
+      "priceSpecification": {
+        "@type": "UnitPriceSpecification",
+        "price": "59.99",
+        "priceCurrency": "EUR",
+        "billingDuration": "P1Y"
+      },
+      "url": "https://play.google.com/store/apps/details?id=com.arkko.arkoscope"
+    }
+  ],
+  "featureList": [
+    "General SCOPE FEED and Observed Universe in FREE",
+    "Qualified official-source provenance",
+    "Radar 20",
+    "Thesis with dated evidence",
+    "Vision Timeline",
+    "Weekly Report",
+    "Lecture ARKOSCOPE: facts, context, limits",
+    "Early Vision: candidates and early projects, separate from official Radar",
+    "Tracker: investigations, evidence, risks and expected signals",
+    "SCOPE GUARD: 3 personal slots in FREE, 20 in VISION PRO",
+    "Android purchase and restore through Google Play without mandatory ARKOSCOPE account"
+  ]
 }

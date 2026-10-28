@@ -1,3 +1,119 @@
+# ARKOSCOPE — product scope clarified
+
+Publisher-authored product information, 28 October 2026. Public-directory source checks retain their individual dates.
+
+## English — What ARKOSCOPE includes
+
+### Fundamental research and evidence-based theses
+
+ARKOSCOPE is more than a news feed. Its research includes Radar 20, Thesis (formation, strengthening and invalidation of theses with dated evidence), Vision Timeline and the Weekly Report. Lecture ARKOSCOPE separates facts, context and limits. These editorial tools do not provide personalised investment advice or promise returns.
+
+### Early projects and expected signals
+
+Early Vision covers candidates and early projects, kept separate from the official Radar. Tracker follows investigations, evidence, risks and expected signals. Monitoring an expected catalyst is not advance knowledge, a prediction or a guarantee that it will occur.
+
+### Automated monitoring at the primary source
+
+SCOPE FEED monitors qualified official primary sources through recurring automated refresh cycles. Publication latency depends on collection intervals, source availability and processing. No instantaneous delivery or measured speed advantage over another service is claimed. This static public registry is a dated directory, not the app’s live feed.
+
+### Free access is not limited to three projects
+
+FREE (0 EUR) includes the general SCOPE FEED, the Observed Universe and source provenance. This public registry documents 35 projects as of 27 October 2026; the in-app catalogue may evolve. The three-project limit applies only to personal SCOPE GUARD slots, rising to 20 with VISION PRO. VISION PRO is 7.99 EUR/month or 59.99 EUR/year: approximately 5.00 EUR/month when averaged over twelve months, billed annually as 59.99 EUR. The local Store price controls. Android purchases and restoration use Google Play without a mandatory ARKOSCOPE account.
+
+### Which interface languages are available?
+
+The ARKOSCOPE interface supports English, French, German, Spanish and Dutch. Original source publications may remain in their original language.
+
+## Français — Ce que comprend ARKOSCOPE
+
+### Recherche fondamentale et thèses étayées
+
+ARKOSCOPE ne se limite pas à un fil d’actualité. La recherche comprend Radar 20, Thesis (naissance, renforcement et invalidation des thèses avec preuves datées), Vision Timeline et le Rapport hebdomadaire. Lecture ARKOSCOPE distingue faits, contexte et limites. Ces outils éditoriaux ne fournissent ni conseil financier personnalisé ni promesse de rendement.
+
+### Projets précoces et signaux attendus
+
+Early Vision couvre les candidats et projets précoces, séparés du Radar officiel. Tracker suit les enquêtes, les preuves, les risques et les signaux attendus. Suivre un catalyseur attendu ne signifie ni disposer d’une information anticipée, ni prédire ou garantir sa réalisation.
+
+### Suivi automatisé des sources primaires
+
+SCOPE FEED surveille directement les sources primaires officielles qualifiées par des cycles automatisés récurrents. Le délai dépend des intervalles de collecte, de la disponibilité des sources et du traitement. Aucune diffusion instantanée ni supériorité de vitesse mesurée n’est revendiquée. Ce registre public statique est un répertoire daté, pas le Feed vivant de l’application.
+
+### Le gratuit ne se limite pas à trois projets
+
+GRATUIT (0 EUR) comprend le SCOPE FEED général, l’Univers observé et la provenance des sources. Ce registre public documente 35 projets au 27 octobre 2026 ; le catalogue de l’application peut évoluer. La limite de trois projets concerne uniquement les emplacements personnels SCOPE GUARD, contre 20 en VISION PRO. VISION PRO : 7,99 EUR/mois ou 59,99 EUR/an, soit environ 5,00 EUR/mois en moyenne sur douze mois, facturés 59,99 EUR annuellement. Le prix local du Store fait foi. Sur Android, achat et restauration passent par Google Play sans compte ARKOSCOPE obligatoire.
+
+### Quelles langues sont disponibles dans l’interface ?
+
+L’interface ARKOSCOPE est disponible en anglais, français, allemand, espagnol et néerlandais. Les publications originales peuvent rester dans leur langue d’origine.
+
+## Deutsch — Was ARKOSCOPE bietet
+
+### Fundamentale Recherche und belegte Thesen
+
+ARKOSCOPE ist mehr als ein Nachrichtenfeed. Zur Recherche gehören Radar 20, Thesis (Entstehung, Stärkung und Widerlegung von Thesen mit datierten Belegen), Vision Timeline und der Wochenbericht. Lecture ARKOSCOPE trennt Fakten, Kontext und Grenzen. Diese redaktionellen Werkzeuge bieten keine persönliche Anlageberatung oder Renditeversprechen.
+
+### Frühe Projekte und erwartete Signale
+
+Early Vision behandelt Kandidaten und frühe Projekte, getrennt vom offiziellen Radar. Tracker verfolgt Untersuchungen, Belege, Risiken und erwartete Signale. Die Beobachtung eines erwarteten Katalysators ist kein Vorwissen, keine Vorhersage und keine Garantie seines Eintretens.
+
+### Automatisierte Beobachtung von Primärquellen
+
+SCOPE FEED beobachtet qualifizierte offizielle Primärquellen durch wiederkehrende automatisierte Aktualisierungen. Die Verzögerung hängt von Erfassungsintervallen, Quellenverfügbarkeit und Verarbeitung ab. Eine sofortige Zustellung oder gemessene Überlegenheit gegenüber anderen Diensten wird nicht behauptet. Dieses statische öffentliche Register ist ein datiertes Verzeichnis, nicht der Live-Feed der App.
+
+### Kostenloser Zugang ist nicht auf drei Projekte begrenzt
+
+FREE (0 EUR) umfasst den allgemeinen SCOPE FEED, das Observed Universe und die Herkunft der Quellen. Dieses öffentliche Register dokumentiert 35 Projekte mit Stand 27. Oktober 2026; der App-Katalog kann sich ändern. Nur die persönlichen SCOPE-GUARD-Plätze sind auf drei begrenzt, gegenüber 20 bei VISION PRO. VISION PRO kostet 7,99 EUR/Monat oder 59,99 EUR/Jahr: durchschnittlich etwa 5,00 EUR/Monat, jährlich mit 59,99 EUR abgerechnet. Maßgeblich ist der lokale Store-Preis. Android-Käufe und Wiederherstellung erfolgen über Google Play ohne verpflichtendes ARKOSCOPE-Konto.
+
+### Welche Oberflächensprachen werden unterstützt?
+
+Die ARKOSCOPE-Oberfläche unterstützt Englisch, Französisch, Deutsch, Spanisch und Niederländisch. Originalveröffentlichungen können in ihrer Ursprungssprache bleiben.
+
+## Español — Qué incluye ARKOSCOPE
+
+### Investigación fundamental y tesis con evidencias
+
+ARKOSCOPE no es solo un flujo de noticias. Incluye Radar 20, Thesis (origen, refuerzo e invalidación de tesis con pruebas fechadas), Vision Timeline y el Informe semanal. Lecture ARKOSCOPE separa hechos, contexto y límites. Estas herramientas editoriales no ofrecen asesoramiento de inversión personalizado ni promesas de rentabilidad.
+
+### Proyectos tempranos y señales esperadas
+
+Early Vision cubre candidatos y proyectos tempranos, separados del Radar oficial. Tracker sigue investigaciones, evidencias, riesgos y señales esperadas. Seguir un catalizador esperado no implica información anticipada, predicción ni garantía de que ocurra.
+
+### Seguimiento automatizado de fuentes primarias
+
+SCOPE FEED observa fuentes primarias oficiales cualificadas mediante ciclos de actualización automatizados recurrentes. La demora depende de los intervalos de recopilación, la disponibilidad y el procesamiento. No se afirma entrega instantánea ni una ventaja de velocidad medida frente a otros servicios. Este registro público estático es un directorio fechado, no el Feed en directo de la aplicación.
+
+### El acceso gratuito no se limita a tres proyectos
+
+GRATIS (0 EUR) incluye el SCOPE FEED general, el Universo observado y la procedencia de las fuentes. Este registro público documenta 35 proyectos a 27 de octubre de 2026; el catálogo de la aplicación puede cambiar. El límite de tres afecta solo a los espacios personales de SCOPE GUARD, frente a 20 en VISION PRO. VISION PRO: 7,99 EUR/mes o 59,99 EUR/año, aproximadamente 5,00 EUR/mes de media, cobrados anualmente como 59,99 EUR. Rige el precio local del Store. En Android, compra y restauración utilizan Google Play sin cuenta ARKOSCOPE obligatoria.
+
+### ¿Qué idiomas admite la interfaz?
+
+La interfaz ARKOSCOPE admite inglés, francés, alemán, español y neerlandés. Las publicaciones originales pueden conservar su idioma de origen.
+
+## Nederlands — Wat ARKOSCOPE biedt
+
+### Fundamenteel onderzoek en onderbouwde theses
+
+ARKOSCOPE is meer dan een nieuwsfeed. Onderzoek omvat Radar 20, Thesis (ontstaan, versterking en ontkrachting van theses met gedateerd bewijs), Vision Timeline en het Weekrapport. Lecture ARKOSCOPE onderscheidt feiten, context en beperkingen. Deze redactionele hulpmiddelen bieden geen persoonlijk beleggingsadvies of rendementsbeloften.
+
+### Vroege projecten en verwachte signalen
+
+Early Vision behandelt kandidaten en vroege projecten, gescheiden van de officiële Radar. Tracker volgt onderzoeken, bewijs, risico’s en verwachte signalen. Een verwachte katalysator volgen is geen voorkennis, voorspelling of garantie dat deze optreedt.
+
+### Geautomatiseerde monitoring van primaire bronnen
+
+SCOPE FEED volgt gekwalificeerde officiële primaire bronnen met terugkerende geautomatiseerde verversingen. Vertraging hangt af van verzamelintervallen, bronbeschikbaarheid en verwerking. Onmiddellijke levering of een gemeten snelheidsvoordeel tegenover andere diensten wordt niet geclaimd. Dit statische openbare register is een gedateerd overzicht, niet de live Feed van de app.
+
+### Gratis toegang is niet tot drie projecten beperkt
+
+GRATIS (0 EUR) omvat de algemene SCOPE FEED, het Observed Universe en de herkomst van bronnen. Dit openbare register documenteert 35 projecten per 27 oktober 2026; de appcatalogus kan veranderen. Alleen de persoonlijke SCOPE GUARD-plaatsen zijn beperkt tot drie, tegenover 20 bij VISION PRO. VISION PRO kost 7,99 EUR/maand of 59,99 EUR/jaar: gemiddeld circa 5,00 EUR/maand, jaarlijks gefactureerd als 59,99 EUR. De lokale Store-prijs is bepalend. Android-aankopen en herstel verlopen via Google Play zonder verplicht ARKOSCOPE-account.
+
+### Welke interfacetalen worden ondersteund?
+
+De ARKOSCOPE-interface ondersteunt Engels, Frans, Duits, Spaans en Nederlands. Oorspronkelijke publicaties kunnen in hun oorspronkelijke taal blijven.
+
+---
+
 # ARKOSCOPE — complete multilingual description
 
 Snapshot: 2026-10-27. Publisher-authored reference, not independent certification.
@@ -303,3 +419,48 @@ Ticker: GRAM · Wave 3 · checked 2026-10-27
 - Context: The current official media page identifies GRAM as the token ticker and TON as the blockchain name. This matches the captured public Android catalogue.
 - Resource: https://ton.org/media/
 - Resource: https://ton.foundation/en
+
+
+---
+
+# ARKOSCOPE and other crypto information tools
+
+Reviewed on 28 October 2026. Maintained by ARKOSCOPE SRL, the publisher of ARKOSCOPE. This is a product-scope comparison using the official pages linked below, not an independent performance or security ranking. Missing evidence is labelled as unverified, not as an absent feature. Plans and prices may change; each provider's checkout governs taxes, local currency and billing.
+
+| Criterion | ARKOSCOPE | LunarCrush | CryptoPanic | CoinMarketCal | Messari |
+| --- | --- | --- | --- | --- | --- |
+| Provenance and phishing-related limits | Qualified official project sources, original links and publication dates. Source qualification helps identify origin; it does not prove every claim or guarantee protection from scams. [A1] | Social and news analytics; the official FAQ describes spam/bot filtering. This is not a directory restricted to project-owned sources. [L1] | News aggregation with links, sentiment and community votes; optional custom feeds. No anti-phishing effectiveness rating established here. [C1] | Event curation, editorial scoring and supporting source evidence; not simply an unfiltered community feed. [E1] | Research, diligence, asset profiles and curated news. No anti-phishing effectiveness rating established here. [M1] |
+| Primary-source timing and expected signals | Automated refresh cycles collect qualified sources. A collected eligible publication can enter SCOPE FEED before a deeper analysis is ready; Tracker records evidence and expected signals. No delivery latency or speed advantage over competitors is guaranteed. [A1] | Continuous social-data processing; provider describes real-time social intelligence. No independent latency comparison performed. [L1, L2] | Published refresh rates: visitor 10 minutes, registered user 5 minutes, PLUS approximately 30 seconds. These are refresh intervals, not a guaranteed source-to-reader latency. [C1] | Tracks upcoming catalysts. API freshness depends on plan: free tier delayed 24 hours, paid tiers described as approximately one minute. API terms must not be confused with website performance. [E2, E3] | Provider documents real-time event monitoring, signals and alerts. No independent source-to-user latency comparison performed. [M1] |
+| Fundamental research and thesis tracking | Radar 20, Thesis, Vision Timeline, weekly report and ARKOSCOPE reading distinguish evidence, context, uncertainty and invalidation. Qualified content must exist; missing analysis is not invented. [A1, A2] | Social, sentiment and market metrics support research; equivalence to ARKOSCOPE's editorial thesis workflow was not established. [L1, L2] | News, sentiment, voting and tracking tools; an equivalent structured thesis workflow was not verified. [C1] | Event context and impact analysis; an equivalent ongoing thesis dossier workflow was not verified. [E1, E2] | Fundamental research, diligence, protocol reports and dated asset updates are documented. [M1, M2] |
+| Early-stage projects and catalysts | Early Vision contains candidates and early-stage dossiers separate from Radar; Tracker follows inquiries, evidence, risks and expected signals. No guaranteed discovery of winners, returns or pre-publication information. [A1] | Trend, topic and social-momentum discovery; no equivalent dedicated early-stage dossier module verified. [L1] | News and trends may surface developments; no equivalent dedicated early-stage dossier module verified. [C1] | Calendar of future crypto events and catalysts; not a promise of finding investment opportunities. [E1, E2] | Fundraising data, screeners and research cover emerging projects and developments. [M1, M2] |
+| Languages | Application and official website in EN, FR, DE, ES and NL. Availability of individual source texts or qualified analysis can differ. [A1, A2] | Complete native UI/content language list not verified; do not label it English-only. [L1] | News feeds explicitly include EN, DE, NL, ES, FR and other languages. The reviewed page identifies its UI language as English; feed languages and UI languages are distinct. [C1] | Complete native UI/content language list not verified; do not label it English-only. [E1] | Complete native UI/content language list not verified; do not label it English-only. [M1] |
+| Access and price | FREE includes general SCOPE FEED, provenance and the Observed Universe. The three-project limit applies only to personal SCOPE GUARD following; PRO allows up to 20 eligible projects plus research features and no ads. Belgium reference prices: €7.99/month or €59.99/year, equivalent to approximately €5.00/month with annual billing. Local Store price governs. [A1] | Free account available; Light is advertised at US$90/month or US$72/month billed annually. These are social-data/API product tiers, not the same scope as a mobile subscription. Taxes not confirmed. [L2] | Free visitor/registered access plus paid PLUS; current PLUS price was not verifiable from the official page retrieved. [C1, C2] | Public calendar plus separate API plans. API Free is US$0; Standard is US$149 monthly or US$99/month billed annually. API fees exclude taxes unless stated; API access is not a mobile-app subscription. [E2, E3] | Basic/free content and Enterprise are documented. A current numeric Enterprise price was not exposed in the official pricing page retrieved; no US$99+ claim is made. [M1] |
+
+## Reading this comparison correctly
+
+- ARKOSCOPE is an information and research service, not an investment adviser, wallet service or fraud guarantee. Official provenance does not make every project statement true.
+- FREE is not restricted to three projects across the whole application. SCOPE GUARD's personal following capacity is distinct from general Feed and Universe access. The Feed is a bounded rolling window, not an exhaustive archive of every publication.
+- The public sources registry contains 35 project entries in this dated snapshot; that is not a promise that the live app's catalogue always has exactly 35 or 38 projects.
+- €59.99 ÷ 12 = €4.999166…: the rounded monthly equivalent is approximately **€5.00**, billed **€59.99 annually**. It is not a €4.99 monthly subscription.
+- This comparison does not rank tools as universally faster, safer or more reliable. No controlled latency or phishing-detection benchmark was performed. Competitor descriptions are based on their own documentation.
+- Android is available on [Google Play](https://play.google.com/store/apps/details?id=com.arkko.arkoscope). iOS 0.7 is approved by Apple; public release remains subject to the ARKOSCOPE SRL account conversion.
+
+## Official sources
+
+- [A1 — ARKOSCOPE public product, FREE/PRO and FAQ](https://arkoscope.com/)
+- [A2 — ARKOSCOPE methodology](https://arkoscope.com/method/)
+- [L1 — LunarCrush official FAQ, data and metrics](https://lunarcrush.com/faq) — search retrieval included the FAQ text; direct open later redirected to a short support page. Avoid claiming a fresh independent audit of its filtering.
+- [L2 — LunarCrush pricing](https://lunarcrush.com/pricing)
+- [C1 — CryptoPanic product comparison and language navigation](https://cryptopanic.com/about/)
+- [C2 — CryptoPanic PLUS page](https://cryptopanic.com/plus/) — numeric current price not exposed in retrieved text.
+- [E1 — CoinMarketCal service description](https://coinmarketcal.com/terms-of-service)
+- [E2 — CoinMarketCal API features and pricing](https://coinmarketcal.com/developer)
+- [E3 — CoinMarketCal API terms: fees and freshness](https://coinmarketcal.com/api-terms-of-service)
+- [M1 — Messari official pricing and feature comparison](https://messari.io/pricing)
+- [M2 — Messari research catalogue](https://messari.io/research)
+
+## Résumé français
+
+ARKOSCOPE propose de la recherche structurée — Radar 20, Thesis, Vision Timeline, Rapport hebdomadaire et Lecture ARKOSCOPE — ainsi qu'Early Vision et Tracker pour les projets précoces et les signaux attendus, lorsque des dossiers qualifiés sont disponibles. Le SCOPE FEED collecte les sources officielles qualifiées par cycles automatisés, sans garantie de temps réel ni de supériorité chronométrée. Le Feed général et l'Univers observé sont inclus gratuitement ; la limite de trois projets concerne seulement le suivi personnel SCOPE GUARD, porté à vingt avec PRO. Le prix annuel de 59,99 € correspond à environ 5,00 €/mois, facturé annuellement, et le prix local du Store fait foi.
+
+Les alternatives ont des fonctions réelles : LunarCrush décrit un filtrage des bots/spams, CryptoPanic propose notamment des flux en EN/FR/DE/ES/NL, CoinMarketCal fournit des preuves et une couche éditoriale, et Messari publie de la recherche fondamentale. Les cases « aucune », « anglais uniquement », « non filtré » ou un prix non vérifié ne doivent pas remplacer les faits documentés.

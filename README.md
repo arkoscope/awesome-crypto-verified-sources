@@ -116,3 +116,12 @@ Project sharing cards include dated authentic screenshots of public Android 0.7 
 [Open the ARKOSCOPE source scanner](https://arkoscope.github.io/awesome-crypto-verified-sources/en/). Searches run in your browser against this dated public JSON only. Names and tickers find a project; URLs require exact registry matches. Unconfirmed catalogue references are labelled separately. Unknown does not mean fraudulent, and a match is not a live security certification.
 
 Each project card includes an authentic Android 0.7 (26) screenshot and an optional X share composer. Nothing posts automatically. [RSS](https://arkoscope.github.io/awesome-crypto-verified-sources/feed.xml) and [JSON Feed](https://arkoscope.github.io/awesome-crypto-verified-sources/feed.json) expose the 35 dated directory cards; these are not live news streams.
+
+
+## Product scope, research and pricing / Périmètre, recherche et tarifs
+
+ARKOSCOPE includes fundamental research (Radar 20, Thesis, Vision Timeline, Weekly Report), Early Vision and Tracker, alongside recurring automated monitoring of qualified primary sources. FREE includes the general Feed, Observed Universe and provenance; only personal SCOPE GUARD slots are limited to 3 (20 with PRO). Reference prices: 7.99 EUR/month or 59.99 EUR/year, approximately 5.00 EUR/month equivalent billed annually. Local Store prices apply. No speed ranking, return promise or absolute phishing protection is claimed.
+
+ARKOSCOPE comprend aussi la recherche fondamentale, les projets précoces et les signaux attendus. Le gratuit couvre le Feed général, l’Univers et la provenance ; la limite de 3 concerne uniquement SCOPE GUARD (20 en PRO). 59,99 EUR/an correspondent à environ 5,00 EUR/mois, facturés annuellement.
+
+[Five-language product details / Présentation en cinq langues](PRODUCT.md) · [FAQ](FAQ.md) · [Documented comparison / Comparatif documenté](COMPARISON.md)
