@@ -1,0 +1,52 @@
+{
+  "kind": "Approved ARKOSCOPE Google Play master derivatives",
+  "generated": "2026-10-28",
+  "transform": "15 seconds unchanged timing; 540x960 H.264; audio removed for muted autoplay; no private application source",
+  "assets": [
+    {
+      "language": "en",
+      "sourceSHA256": "c541cee1beac30e36af45835d36d8c98ad01ec3aaa8cd54d6ff1c70860290e82",
+      "file": "arkoscope-en-15s.mp4",
+      "sha256": "7f81bc9adc3fb79221d0029e81d48d8724e1443e2e9be4267c453ff652748cfd",
+      "bytes": 427940,
+      "durationSeconds": 15,
+      "audio": false
+    },
+    {
+      "language": "fr",
+      "sourceSHA256": "29623e8400510829f7139b158b2b8e461bff6efc758c65d3f861fe198f4cf369",
+      "file": "arkoscope-fr-15s.mp4",
+      "sha256": "11192227e87b0639af3728f527f2959b483fa02083a6d83607085afbcdb10bd6",
+      "bytes": 441640,
+      "durationSeconds": 15,
+      "audio": false
+    },
+    {
+      "language": "de",
+      "sourceSHA256": "0c8405787fdde9621cf8fe83ee15a5a6b425755fa0ef47bae3170748fd00a39f",
+      "file": "arkoscope-de-15s.mp4",
+      "sha256": "9d88e874596532a5ee2812c9a90233a822d4bfc777685f60eb9e9e2d4ea085d5",
+      "bytes": 438749,
+      "durationSeconds": 15,
+      "audio": false
+    },
+    {
+      "language": "es",
+      "sourceSHA256": "7a2088b0ab80b2cfa61bcd82f93cb3c4bd902ce85c24fa6c0d631a885d1ea341",
+      "file": "arkoscope-es-15s.mp4",
+      "sha256": "3589d3dd230cf14f0e529108099e8078b51709b70d8adc2e65818c3da51fabcd",
+      "bytes": 444667,
+      "durationSeconds": 15,
+      "audio": false
+    },
+    {
+      "language": "nl",
+      "sourceSHA256": "68caca958dbc916e176cae351a7c7022d1f9ca6fca4353568f5773431e0ea8a2",
+      "file": "arkoscope-nl-15s.mp4",
+      "sha256": "8d868b33d4032e2d11c5a8bdb13eff2dcf894f208376357859cc46909d381a3c",
+      "bytes": 444447,
+      "durationSeconds": 15,
+      "audio": false
+    }
+  ]
+}
