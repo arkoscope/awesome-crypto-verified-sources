@@ -17,16 +17,19 @@ const annotations = {readOnlyHint:true,destructiveHint:false,idempotentHint:true
 function createServer() {
  const server = new McpServer({name:'arkoscope-public-sources',version:'1.0.1'});
  server.registerTool('list_projects', {
-  description:'List projects in the bundled, dated public ARKOSCOPE registry. Optional bounded text filter. No live feed or private API access.',
-  inputSchema:z.object({query:z.string().trim().max(80).optional(),wave:z.number().int().min(1).max(3).optional()}),annotations
+  description:'Browse or search the bundled, dated public ARKOSCOPE registry to discover an exact identifier for get_project_sources. Returns count and all matching projects (project name, ticker, editorial wave and id) in one response, without pagination. An omitted, empty or whitespace-only query applies no text filter; wave still applies if supplied. No matches returns count: 0 and projects: []. Use get_project_sources with a returned id for source URLs and evidence. Includes the registry date and limitations; no live feed or private API access.',
+  inputSchema:z.object({
+   query:z.string().trim().max(80).optional().describe('Optional case-insensitive substring search across project names and tickers. Surrounding whitespace is ignored; at most 80 characters after trimming. Omit or leave empty to apply no text filter. Combined with wave using AND.'),
+   wave:z.number().int().min(1).max(3).optional().describe('Optional editorial group in the registry: integer 1, 2 or 3. This number is not a quality level or ranking. Only projects in this group are returned, also matching query if supplied.')
+  }),annotations
  }, async ({query='',wave}) => {
   const q=normalize(query);
   const projects=registry.projects.filter(p=>(!wave||p.wave===wave)&&(!q||normalize(p.project+' '+p.ticker).includes(q))).map(p=>({project:p.project,ticker:p.ticker,wave:p.wave,id:slug(p)}));
   return result(envelope({count:projects.length,projects}));
  });
  server.registerTool('get_project_sources', {
-  description:'Return an exact project name, ticker or id with public source URLs and evidence levels. Unknown inputs are not guessed. Does not fetch URLs or certify safety.',
-  inputSchema:z.object({project:z.string().trim().min(1).max(80)}),annotations
+  description:'Retrieve public source URLs and dated evidence for one exact project, preferably using an id from list_projects. Returns status found with the full record and directoryURL; not_found with matches: [] if none match; or ambiguous with matching project names if several match. No pagination. For not_found or ambiguous, use list_projects with a partial name or ticker (or no filters to browse), then retry with a returned id. Includes the registry date and limitations. Empty or whitespace-only input is invalid. Does not guess, fetch URLs, perform live verification or certify safety.',
+  inputSchema:z.object({project:z.string().trim().min(1).max(80).describe('Exact project name, ticker or id returned by list_projects, for example "NEAR Protocol", "NEAR" or "near-protocol". Matching ignores case and surrounding whitespace, but does not accept partial or fuzzy matches. Required: 1 to 80 characters after trimming. Use list_projects first if the identifier is unknown.')}),annotations
  }, async ({project}) => {
   const q=normalize(project);
   const matches=registry.projects.filter(p=>[normalize(p.project),normalize(p.ticker),slug(p)].includes(q));
