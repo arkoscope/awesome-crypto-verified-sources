@@ -42,7 +42,7 @@ No environment variables, access tokens or wallet are required. This repository 
 
 Example: `get_project_sources` with `{"project":"SOL"}`. Unknown or ambiguous names are reported, never guessed. The only file read at startup is the bundled `../sources.json`. Tool arguments never select paths, execute commands or fetch URLs. Updates require an explicit new checkout of the public data.
 
-Every result includes the requested ARKOSCOPE attribution and the limitations. Some X references are retained from the public Android catalogue but have **not** been reconfirmed by a current official-site link; those evidence statuses are returned unchanged. A source listing does not certify a project, claim or future security. iOS approval is distinct from public App Store availability.
+Every result includes the requested ARKOSCOPE attribution and the limitations. Some X references are retained from the public Android catalogue but have **not** been reconfirmed by a current official-site link; those evidence statuses are returned unchanged. A source listing does not certify a project, claim or future security. The mobile app is separately available on the [App Store](https://apps.apple.com/app/arkoscope/id6792251260) and [Google Play](https://play.google.com/store/apps/details?id=com.arkko.arkoscope). ARKO WHALE and VISION PRO are app features, not MCP tools.
 
 ## Validation and licensing
 

@@ -1,17 +1,23 @@
 # Awesome Crypto Verified Sources
 
+[![arkoscope/awesome-crypto-verified-sources MCP server](https://glama.ai/mcp/servers/arkoscope/awesome-crypto-verified-sources/badges/score.svg)](https://glama.ai/mcp/servers/arkoscope/awesome-crypto-verified-sources)
+
 
 [![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/github-com-arkoligue-awesome-crypto-verified-sources-tree-main-mcp-server)
 
 <a href="https://alternativeto.net/software/arkoscope/about/?utm_source=badge&utm_medium=referral" target="_blank"><img src="https://alternativeto.net/static/badges/badge-compact-dark.svg" alt="ARKOSCOPE | AlternativeTo" width="171" height="58" style="width: 171px; height: 58px;" /></a>
 
-Maintained by ARKOSCOPE SRL (Brussels) — The crypto information network without the noise. Powering the ARKOSCOPE mobile terminal (Live on Google Play / iOS accepted by Apple).
+Maintained by ARKOSCOPE SRL (Brussels) — The crypto information network without the noise. Powering the ARKOSCOPE mobile terminal (available on the App Store and Google Play).
 
 **Snapshot: 27 October 2026.** A public directory of first-party entry points for the 35 projects in ARKOSCOPE’s first three outreach waves. This is an independent editorial reference, not an endorsement, partnership directory or investment recommendation.
 
-[Get ARKOSCOPE on Google Play](https://play.google.com/store/apps/details?id=com.arkko.arkoscope) · [Website](https://arkoscope.com)
+<a href="https://apps.apple.com/app/arkoscope/id6792251260"><img src="https://arkoscope.com/assets/badges/apple-app-store-badge-en-us.svg" alt="Download on the App Store" height="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=com.arkko.arkoscope"><img src="https://arkoscope.com/assets/badges/google-play-badge-en.svg" alt="Get it on Google Play" height="48"></a>
 
-iOS 0.7 was approved by Apple on 22 October 2026. Public iPhone download remains pending the corporate account conversion; approval is not a claim that the App Store release is live.
+Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries and regions. App Store is a service mark of Apple Inc. Google Play and the Google Play logo are trademarks of Google LLC.
+
+[App Store — iPhone](https://apps.apple.com/app/arkoscope/id6792251260) · [Google Play — Android](https://play.google.com/store/apps/details?id=com.arkko.arkoscope) · [Website](https://arkoscope.com)
+
+ARKOSCOPE is publicly available for iPhone on the App Store and for Android on Google Play. The App Store seller is ARKOSCOPE; the Google Play publisher is ARKOSCOPE SRL. Availability depends on your country and compatible device. App availability checked on 24 November 2026 in the US, Belgian and French storefronts; this is not a worldwide-availability claim. The source registry and historical captures retain their original dates.
 
 ## How to use this directory
 
@@ -70,7 +76,7 @@ ARKOSCOPE SRL (Bruxelles) propose un point de départ pour retrouver les canaux 
 
 Le signe ✓ indique un lien X retrouvé sur le site officiel pendant ce contrôle. ↻ signifie que le compte du catalogue est conservé mais que ce lien n’a pas été reconfirmé par la page d’accueil. Pour une source ↻, repartez du site officiel avant toute réutilisation automatique. Vérifier un canal ne garantit pas la véracité de tous ses messages ni l’absence de piratage.
 
-Android est disponible sur Google Play. iOS 0.7 a été accepté par Apple le 22 octobre ; l’ouverture publique attend la fin du basculement administratif du compte société. Aucun lien App Store public non vérifié n’est présenté.
+ARKOSCOPE est disponible publiquement sur iPhone dans l’App Store et sur Android dans Google Play. Le vendeur App Store est ARKOSCOPE ; l’éditeur Google Play est ARKOSCOPE SRL. La disponibilité dépend du pays et de la compatibilité de l’appareil.
 
 ## Attribution
 
@@ -120,8 +126,14 @@ Each project card includes an authentic Android 0.7 (26) screenshot and an optio
 
 ## Product scope, research and pricing / Périmètre, recherche et tarifs
 
-ARKOSCOPE includes fundamental research (Radar 20, Thesis, Vision Timeline, Weekly Report), Early Vision and Tracker, alongside recurring automated monitoring of qualified primary sources. FREE includes the general Feed, Observed Universe and provenance; only personal SCOPE GUARD slots are limited to 3 (20 with PRO). Reference prices: 7.99 EUR/month or 59.99 EUR/year, approximately 5.00 EUR/month equivalent billed annually. Local Store prices apply. No speed ranking, return promise or absolute phishing protection is claimed.
+ARKOSCOPE is more than a news feed. Its research includes Radar 20, Thesis (formation, strengthening and invalidation of theses with dated evidence), Vision Timeline and the Weekly Report. Lecture ARKOSCOPE separates facts, context and limits. These editorial tools do not provide personalised investment advice or promise returns.
 
-ARKOSCOPE comprend aussi la recherche fondamentale, les projets précoces et les signaux attendus. Le gratuit couvre le Feed général, l’Univers et la provenance ; la limite de 3 concerne uniquement SCOPE GUARD (20 en PRO). 59,99 EUR/an correspondent à environ 5,00 EUR/mois, facturés annuellement.
+On iPhone and Android, ARKO WHALE visualises observed blockchain transfers on a 3D globe, with estimated USD amounts, context and accessible blockchain evidence. A transfer into or out of a centralised exchange does not prove a purchase or sale. Coverage and data availability are limited to supported assets and networks. This is a VISION PRO feature of the mobile app, not a capability of this public registry or its local read-only MCP server. Some features and their rendering may differ between the iPhone and Android versions. VISION PRO is an optional paid subscription. Check your store for the current local price, billing period, renewal terms and any introductory trial, including its duration and eligibility. An offer is not guaranteed for every account. Purchases and restoration use the platform’s store.
+
+Sur iPhone et Android, ARKO WHALE visualise les transferts blockchain observés sur une planète 3D, avec montants USD estimés, contexte et preuves blockchain accessibles. Une entrée ou une sortie d’une plateforme centralisée ne prouve pas un achat ou une vente. La couverture et les données se limitent aux actifs et réseaux pris en charge. Cette fonction VISION PRO appartient à l’application mobile, pas à ce registre public ni à son serveur MCP local en lecture seule. Certaines fonctions et leur rendu peuvent différer entre les versions iPhone et Android. VISION PRO est un abonnement payant facultatif. Consultez votre boutique pour le prix local actuel, la période de facturation, les conditions de renouvellement et tout essai éventuel, sa durée et son éligibilité. Une offre n’est pas garantie pour tous les comptes. L’achat et la restauration passent par la boutique de la plateforme.
 
 [Five-language product details / Présentation en cinq langues](PRODUCT.md) · [FAQ](FAQ.md) · [Documented comparison / Comparatif documenté](COMPARISON.md)
+
+## App demonstration
+
+[Watch the current English ARKOSCOPE video](https://arkoscope.com/assets/video/arkoscope-en-34s-deux-stores-20261124.mp4). It shows the ARKO WHALE globe, Bitcoin visuals and both store badges. The English voiceover is AI-generated. SCOPE FEED is demonstrated with a sample video; ARKO WHALE uses a dated, accelerated real capture, not a live trading signal. ARKO WHALE requires VISION PRO; transfer observations do not establish purchases or sales.

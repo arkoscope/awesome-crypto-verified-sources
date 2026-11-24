@@ -38,6 +38,6 @@ Suggested HuggingFace upload: this card as `README.md`, `sources.json`, a flatte
 Use `CITATION.cff` and include the exact commit hash and access date.
 
 ## Mobile app
-[ARKOSCOPE on Google Play](https://play.google.com/store/apps/details?id=com.arkko.arkoscope). iOS 0.7 was approved by Apple on 22 October 2026; public iPhone release awaits the corporate account conversion. This status is dated, not a permanent availability guarantee.
+ARKOSCOPE is publicly available on [the App Store for iPhone](https://apps.apple.com/app/arkoscope/id6792251260) and [Google Play for Android](https://play.google.com/store/apps/details?id=com.arkko.arkoscope). App availability checked on 24 November 2026 in the US, Belgian and French storefronts; availability depends on country and device. This does not change the registry snapshot date. VISION PRO is optional and paid; the relevant store displays current prices and any trial conditions.
 
 [Source repository](https://github.com/arkoscope/awesome-crypto-verified-sources) · [Public directory](https://arkoscope.github.io/awesome-crypto-verified-sources/)

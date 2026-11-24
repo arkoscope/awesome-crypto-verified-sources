@@ -4,11 +4,11 @@
     "title": "What ARKOSCOPE includes",
     "faqTitle": "ARKOSCOPE: research, sources and access",
     "comparisonTitle": "Compare documented product capabilities",
-    "comparisonNotice": "Publisher-authored comparison, checked 28 October 2026. The evidence table is in English. Products have different purposes; absence of documentation is not proof that a feature is absent. No independent speed or security ranking is claimed.",
+    "comparisonNotice": "Publisher-authored comparison, checked 28 October 2026. The evidence table is in English. Products have different purposes; absence of documentation is not proof that a feature is absent. No independent speed or security ranking is claimed. Historical prices are not current offers; check the stores.",
     "comparisonOpen": "Read the evidence table and official sources",
     "aiTitle": "Explore ARKOSCOPE’s architecture with an AI",
     "aiNotice": "These links open a question in an external AI service when you choose to click. Answers may be inaccurate. They do not refresh caches, guarantee indexing or imply an endorsement.",
-    "aiPrompt": "Analyse the crypto mobile app ARKOSCOPE (arkoscope.com): its free general SCOPE FEED, fundamental research modules Radar 20 and Thesis, early-project coverage Early Vision and Tracker, and Google Play availability. Consult the publisher’s current public documentation, distinguish official-source provenance from independent fact verification, and cite your sources.",
+    "aiPrompt": "Analyse the crypto mobile app ARKOSCOPE (arkoscope.com): its free general SCOPE FEED, fundamental research modules Radar 20 and Thesis, early-project coverage Early Vision and Tracker, and App Store / Google Play availability. Consult the publisher’s current public documentation, distinguish official-source provenance from independent fact verification, and cite your sources.",
     "items": [
       [
         "Fundamental research and evidence-based theses",
@@ -24,19 +24,29 @@
       ],
       [
         "Free access is not limited to three projects",
-        "FREE (0 EUR) includes the general SCOPE FEED, the Observed Universe and source provenance. This public registry documents 35 projects as of 27 October 2026; the in-app catalogue may evolve. The three-project limit applies only to personal SCOPE GUARD slots, rising to 20 with VISION PRO. VISION PRO is 7.99 EUR/month or 59.99 EUR/year: approximately 5.00 EUR/month when averaged over twelve months, billed annually as 59.99 EUR. The local Store price controls. Android purchases and restoration use Google Play without a mandatory ARKOSCOPE account."
+        "FREE (0 EUR) includes the general SCOPE FEED, the Observed Universe and source provenance. This public registry documents 35 projects as of 27 October 2026; the in-app catalogue may evolve. The three-project limit applies only to personal SCOPE GUARD slots, rising to 20 with VISION PRO. VISION PRO is an optional paid subscription. Check your store for the current local price, billing period, renewal terms and any introductory trial, including its duration and eligibility. An offer is not guaranteed for every account. Purchases and restoration use the platform’s store."
+      ],
+      [
+        "Where can I download ARKOSCOPE?",
+        "ARKOSCOPE is publicly available for iPhone on the App Store and for Android on Google Play. The App Store seller is ARKOSCOPE; the Google Play publisher is ARKOSCOPE SRL. Availability depends on your country and compatible device."
+      ],
+      [
+        "ARKO WHALE — VISION PRO app feature",
+        "On iPhone and Android, ARKO WHALE visualises observed blockchain transfers on a 3D globe, with estimated USD amounts, context and accessible blockchain evidence. A transfer into or out of a centralised exchange does not prove a purchase or sale. Coverage and data availability are limited to supported assets and networks. This is a VISION PRO feature of the mobile app, not a capability of this public registry or its local read-only MCP server. Some features and their rendering may differ between the iPhone and Android versions."
       ]
     ],
     "questions": [
       "Does ARKOSCOPE include fundamental research?",
       "Does ARKOSCOPE cover early projects and expected signals?",
       "Is SCOPE FEED instantaneous or faster than every news service?",
-      "Is FREE restricted to only three projects?"
+      "Is FREE restricted to only three projects?",
+      "Where can I download ARKOSCOPE?",
+      "What does ARKO WHALE show?"
     ],
     "languageQuestion": "Which interface languages are available?",
     "languageAnswer": "The ARKOSCOPE interface supports English, French, German, Spanish and Dutch. Original source publications may remain in their original language.",
-    "priceQuestion": "Is the annual subscription billed at 4.99 EUR per month?",
-    "priceAnswer": "No. The reference annual price is 59.99 EUR billed once per year. Dividing it by 12 gives 4.999… EUR, approximately 5.00 EUR per month, not a separately billed monthly rate. The reference monthly plan is 7.99 EUR; use the price and renewal terms shown in your Store.",
+    "priceQuestion": "What are the current VISION PRO prices and trial conditions?",
+    "priceAnswer": "VISION PRO is an optional paid subscription. Check your store for the current local price, billing period, renewal terms and any introductory trial, including its duration and eligibility. An offer is not guaranteed for every account. Purchases and restoration use the platform’s store.",
     "limitQuestion": "Does a verified official source guarantee safety or truth?",
     "limitAnswer": "No. Provenance helps identify a publisher. It cannot guarantee that every statement is true, that a source is uncompromised, or that a link is risk-free. Listing a project is not a recommendation or partnership."
   },
@@ -45,11 +55,11 @@
     "title": "Ce que comprend ARKOSCOPE",
     "faqTitle": "ARKOSCOPE : recherche, sources et accès",
     "comparisonTitle": "Comparer les fonctions documentées",
-    "comparisonNotice": "Comparaison rédigée par l’éditeur, vérifiée le 28 octobre 2026. Le tableau de preuves est en anglais. Les produits ont des objectifs différents ; une fonction non documentée n’est pas nécessairement absente. Aucun classement indépendant de vitesse ou de sécurité n’est établi.",
+    "comparisonNotice": "Comparaison rédigée par l’éditeur, vérifiée le 28 octobre 2026. Le tableau de preuves est en anglais. Les produits ont des objectifs différents ; une fonction non documentée n’est pas nécessairement absente. Aucun classement indépendant de vitesse ou de sécurité n’est établi. Les prix historiques ne sont pas les offres actuelles ; consultez les boutiques.",
     "comparisonOpen": "Lire le tableau et ses sources officielles",
     "aiTitle": "Examiner l’architecture d’ARKOSCOPE avec une IA",
     "aiNotice": "Ces liens ouvrent une question dans un service IA externe uniquement à votre clic. Les réponses peuvent être inexactes. Ils ne rafraîchissent pas les caches, ne garantissent pas l’indexation et ne constituent pas une approbation.",
-    "aiPrompt": "Analyse l’application mobile crypto ARKOSCOPE (arkoscope.com) : son SCOPE FEED général gratuit, ses modules de recherche fondamentale Radar 20 et Thesis, son suivi de projets précoces Early Vision et Tracker et sa disponibilité sur Google Play. Consulte la documentation publique actuelle de l’éditeur, distingue provenance officielle et vérification indépendante des faits, et cite tes sources.",
+    "aiPrompt": "Analyse l’application mobile crypto ARKOSCOPE (arkoscope.com) : son SCOPE FEED général gratuit, ses modules de recherche fondamentale Radar 20 et Thesis, son suivi de projets précoces Early Vision et Tracker et sa disponibilité sur App Store / Google Play. Consulte la documentation publique actuelle de l’éditeur, distingue provenance officielle et vérification indépendante des faits, et cite tes sources.",
     "items": [
       [
         "Recherche fondamentale et thèses étayées",
@@ -65,19 +75,29 @@
       ],
       [
         "Le gratuit ne se limite pas à trois projets",
-        "GRATUIT (0 EUR) comprend le SCOPE FEED général, l’Univers observé et la provenance des sources. Ce registre public documente 35 projets au 27 octobre 2026 ; le catalogue de l’application peut évoluer. La limite de trois projets concerne uniquement les emplacements personnels SCOPE GUARD, contre 20 en VISION PRO. VISION PRO : 7,99 EUR/mois ou 59,99 EUR/an, soit environ 5,00 EUR/mois en moyenne sur douze mois, facturés 59,99 EUR annuellement. Le prix local du Store fait foi. Sur Android, achat et restauration passent par Google Play sans compte ARKOSCOPE obligatoire."
+        "GRATUIT (0 EUR) comprend le SCOPE FEED général, l’Univers observé et la provenance des sources. Ce registre public documente 35 projets au 27 octobre 2026 ; le catalogue de l’application peut évoluer. La limite de trois projets concerne uniquement les emplacements personnels SCOPE GUARD, contre 20 en VISION PRO. VISION PRO est un abonnement payant facultatif. Consultez votre boutique pour le prix local actuel, la période de facturation, les conditions de renouvellement et tout essai éventuel, sa durée et son éligibilité. Une offre n’est pas garantie pour tous les comptes. L’achat et la restauration passent par la boutique de la plateforme."
+      ],
+      [
+        "Où télécharger ARKOSCOPE ?",
+        "ARKOSCOPE est disponible publiquement sur iPhone dans l’App Store et sur Android dans Google Play. Le vendeur App Store est ARKOSCOPE ; l’éditeur Google Play est ARKOSCOPE SRL. La disponibilité dépend du pays et de la compatibilité de l’appareil."
+      ],
+      [
+        "ARKO WHALE — fonction de l’application VISION PRO",
+        "Sur iPhone et Android, ARKO WHALE visualise les transferts blockchain observés sur une planète 3D, avec montants USD estimés, contexte et preuves blockchain accessibles. Une entrée ou une sortie d’une plateforme centralisée ne prouve pas un achat ou une vente. La couverture et les données se limitent aux actifs et réseaux pris en charge. Cette fonction VISION PRO appartient à l’application mobile, pas à ce registre public ni à son serveur MCP local en lecture seule. Certaines fonctions et leur rendu peuvent différer entre les versions iPhone et Android."
       ]
     ],
     "questions": [
       "ARKOSCOPE propose-t-il de la recherche fondamentale ?",
       "ARKOSCOPE suit-il des projets précoces et des signaux attendus ?",
       "SCOPE FEED est-il instantané ou plus rapide que tous les médias ?",
-      "Le gratuit est-il limité à seulement trois projets ?"
+      "Le gratuit est-il limité à seulement trois projets ?",
+      "Où télécharger ARKOSCOPE ?",
+      "Que montre ARKO WHALE ?"
     ],
     "languageQuestion": "Quelles langues sont disponibles dans l’interface ?",
     "languageAnswer": "L’interface ARKOSCOPE est disponible en anglais, français, allemand, espagnol et néerlandais. Les publications originales peuvent rester dans leur langue d’origine.",
-    "priceQuestion": "La formule annuelle est-elle facturée 4,99 EUR par mois ?",
-    "priceAnswer": "Non. Le prix annuel de référence est de 59,99 EUR, facturés une fois par an. Divisé par 12, cela représente 4,999… EUR, soit environ 5,00 EUR par mois, et non une mensualité séparée. La formule mensuelle de référence coûte 7,99 EUR. Le prix et les conditions de renouvellement affichés par votre Store font foi.",
+    "priceQuestion": "Quels sont les tarifs et conditions d’essai actuels de VISION PRO ?",
+    "priceAnswer": "VISION PRO est un abonnement payant facultatif. Consultez votre boutique pour le prix local actuel, la période de facturation, les conditions de renouvellement et tout essai éventuel, sa durée et son éligibilité. Une offre n’est pas garantie pour tous les comptes. L’achat et la restauration passent par la boutique de la plateforme.",
     "limitQuestion": "Une source officielle vérifiée garantit-elle sécurité et vérité ?",
     "limitAnswer": "Non. La provenance aide à identifier l’auteur. Elle ne garantit ni la véracité de chaque déclaration, ni l’absence de piratage, ni un lien sans risque. Référencer un projet ne constitue ni recommandation ni partenariat."
   },
@@ -86,11 +106,11 @@
     "title": "Was ARKOSCOPE bietet",
     "faqTitle": "ARKOSCOPE: Recherche, Quellen und Zugang",
     "comparisonTitle": "Dokumentierte Funktionen vergleichen",
-    "comparisonNotice": "Vom Herausgeber verfasster Vergleich, geprüft am 28. Oktober 2026. Die Belegtabelle ist auf Englisch. Produkte haben unterschiedliche Zwecke; fehlende Dokumentation beweist nicht, dass eine Funktion fehlt. Keine unabhängige Rangliste für Geschwindigkeit oder Sicherheit.",
+    "comparisonNotice": "Vom Herausgeber verfasster Vergleich, geprüft am 28. Oktober 2026. Die Belegtabelle ist auf Englisch. Produkte haben unterschiedliche Zwecke; fehlende Dokumentation beweist nicht, dass eine Funktion fehlt. Keine unabhängige Rangliste für Geschwindigkeit oder Sicherheit. Historische Preise sind keine aktuellen Angebote; prüfen Sie die Stores.",
     "comparisonOpen": "Tabelle und offizielle Quellen lesen",
     "aiTitle": "Die Architektur von ARKOSCOPE mit einer KI prüfen",
     "aiNotice": "Diese Links öffnen erst nach Ihrem Klick eine Frage in einem externen KI-Dienst. Antworten können Fehler enthalten. Die Links aktualisieren keine Caches, garantieren keine Indexierung und bedeuten keine Empfehlung.",
-    "aiPrompt": "Analysiere die Krypto-App ARKOSCOPE (arkoscope.com): den kostenlosen allgemeinen SCOPE FEED, die fundamentalen Recherchemodule Radar 20 und Thesis, Early Vision und Tracker für frühe Projekte sowie die Verfügbarkeit bei Google Play. Nutze die aktuelle öffentliche Dokumentation des Herausgebers, unterscheide offizielle Herkunft von unabhängiger Faktenprüfung und zitiere Quellen.",
+    "aiPrompt": "Analysiere die Krypto-App ARKOSCOPE (arkoscope.com): den kostenlosen allgemeinen SCOPE FEED, die fundamentalen Recherchemodule Radar 20 und Thesis, Early Vision und Tracker für frühe Projekte sowie die Verfügbarkeit bei App Store / Google Play. Nutze die aktuelle öffentliche Dokumentation des Herausgebers, unterscheide offizielle Herkunft von unabhängiger Faktenprüfung und zitiere Quellen.",
     "items": [
       [
         "Fundamentale Recherche und belegte Thesen",
@@ -106,19 +126,29 @@
       ],
       [
         "Kostenloser Zugang ist nicht auf drei Projekte begrenzt",
-        "FREE (0 EUR) umfasst den allgemeinen SCOPE FEED, das Observed Universe und die Herkunft der Quellen. Dieses öffentliche Register dokumentiert 35 Projekte mit Stand 27. Oktober 2026; der App-Katalog kann sich ändern. Nur die persönlichen SCOPE-GUARD-Plätze sind auf drei begrenzt, gegenüber 20 bei VISION PRO. VISION PRO kostet 7,99 EUR/Monat oder 59,99 EUR/Jahr: durchschnittlich etwa 5,00 EUR/Monat, jährlich mit 59,99 EUR abgerechnet. Maßgeblich ist der lokale Store-Preis. Android-Käufe und Wiederherstellung erfolgen über Google Play ohne verpflichtendes ARKOSCOPE-Konto."
+        "FREE (0 EUR) umfasst den allgemeinen SCOPE FEED, das Observed Universe und die Herkunft der Quellen. Dieses öffentliche Register dokumentiert 35 Projekte mit Stand 27. Oktober 2026; der App-Katalog kann sich ändern. Nur die persönlichen SCOPE-GUARD-Plätze sind auf drei begrenzt, gegenüber 20 bei VISION PRO. VISION PRO ist ein optionales kostenpflichtiges Abonnement. Im jeweiligen Store stehen der aktuelle lokale Preis, Abrechnungszeitraum, Verlängerungsbedingungen und ein etwaiges Probeangebot mit Dauer und Berechtigung. Ein Angebot gilt nicht automatisch für jedes Konto. Kauf und Wiederherstellung erfolgen über den Store der Plattform."
+      ],
+      [
+        "Wo kann ich ARKOSCOPE herunterladen?",
+        "ARKOSCOPE ist öffentlich für iPhone im App Store und für Android bei Google Play verfügbar. Der App-Store-Verkäufer ist ARKOSCOPE; der Google-Play-Herausgeber ist ARKOSCOPE SRL. Die Verfügbarkeit hängt vom Land und vom kompatiblen Gerät ab."
+      ],
+      [
+        "ARKO WHALE — App-Funktion mit VISION PRO",
+        "Auf iPhone und Android visualisiert ARKO WHALE beobachtete Blockchain-Transfers auf einem 3D-Globus mit geschätzten USD-Beträgen, Kontext und zugänglichen Blockchain-Belegen. Ein Transfer zu oder von einer zentralisierten Börse beweist keinen Kauf oder Verkauf. Abdeckung und Daten sind auf unterstützte Vermögenswerte und Netzwerke begrenzt. Dies ist eine VISION-PRO-Funktion der mobilen App, keine Funktion dieses öffentlichen Registers oder seines lokalen schreibgeschützten MCP-Servers. Einzelne Funktionen und ihre Darstellung können sich zwischen iPhone und Android unterscheiden."
       ]
     ],
     "questions": [
       "Bietet ARKOSCOPE fundamentale Recherche?",
       "Beobachtet ARKOSCOPE frühe Projekte und erwartete Signale?",
       "Ist SCOPE FEED sofort oder schneller als jeder Nachrichtendienst?",
-      "Ist FREE auf insgesamt drei Projekte begrenzt?"
+      "Ist FREE auf insgesamt drei Projekte begrenzt?",
+      "Wo kann ich ARKOSCOPE herunterladen?",
+      "Was zeigt ARKO WHALE?"
     ],
     "languageQuestion": "Welche Oberflächensprachen werden unterstützt?",
     "languageAnswer": "Die ARKOSCOPE-Oberfläche unterstützt Englisch, Französisch, Deutsch, Spanisch und Niederländisch. Originalveröffentlichungen können in ihrer Ursprungssprache bleiben.",
-    "priceQuestion": "Wird das Jahresabo monatlich mit 4,99 EUR abgerechnet?",
-    "priceAnswer": "Nein. Der Jahresreferenzpreis beträgt 59,99 EUR, einmal jährlich abgerechnet. Geteilt durch 12 sind das 4,999… EUR, rund 5,00 EUR pro Monat, keine separate Monatsrate. Das Monatsabo beträgt als Referenz 7,99 EUR. Der Store zeigt den tatsächlichen Preis und die Verlängerungsbedingungen.",
+    "priceQuestion": "Welche Preise und Probebedingungen gelten aktuell für VISION PRO?",
+    "priceAnswer": "VISION PRO ist ein optionales kostenpflichtiges Abonnement. Im jeweiligen Store stehen der aktuelle lokale Preis, Abrechnungszeitraum, Verlängerungsbedingungen und ein etwaiges Probeangebot mit Dauer und Berechtigung. Ein Angebot gilt nicht automatisch für jedes Konto. Kauf und Wiederherstellung erfolgen über den Store der Plattform.",
     "limitQuestion": "Garantiert eine geprüfte offizielle Quelle Sicherheit oder Wahrheit?",
     "limitAnswer": "Nein. Die Herkunft hilft, den Herausgeber zu identifizieren. Sie garantiert weder jede Aussage noch ein unversehrtes Konto oder risikofreie Links. Eine Aufnahme ist keine Empfehlung und keine Partnerschaft."
   },
@@ -127,11 +157,11 @@
     "title": "Qué incluye ARKOSCOPE",
     "faqTitle": "ARKOSCOPE: investigación, fuentes y acceso",
     "comparisonTitle": "Comparar funciones documentadas",
-    "comparisonNotice": "Comparación redactada por el editor, revisada el 28 de octubre de 2026. La tabla de evidencias está en inglés. Los productos tienen distintos fines; una función no documentada no está necesariamente ausente. No se afirma una clasificación independiente de velocidad o seguridad.",
+    "comparisonNotice": "Comparación redactada por el editor, revisada el 28 de octubre de 2026. La tabla de evidencias está en inglés. Los productos tienen distintos fines; una función no documentada no está necesariamente ausente. No se afirma una clasificación independiente de velocidad o seguridad. Los precios históricos no son ofertas actuales; consulta las tiendas.",
     "comparisonOpen": "Leer la tabla y sus fuentes oficiales",
     "aiTitle": "Examinar la arquitectura de ARKOSCOPE con una IA",
     "aiNotice": "Estos enlaces abren una pregunta en un servicio de IA externo solo al pulsarlos. Las respuestas pueden ser inexactas. No actualizan cachés ni garantizan indexación o respaldo.",
-    "aiPrompt": "Analiza la aplicación cripto ARKOSCOPE (arkoscope.com): su SCOPE FEED general gratuito, los módulos de investigación fundamental Radar 20 y Thesis, Early Vision y Tracker para proyectos tempranos y la disponibilidad en Google Play. Consulta la documentación pública actual del editor, distingue la procedencia oficial de la verificación independiente de hechos y cita fuentes.",
+    "aiPrompt": "Analiza la aplicación cripto ARKOSCOPE (arkoscope.com): su SCOPE FEED general gratuito, los módulos de investigación fundamental Radar 20 y Thesis, Early Vision y Tracker para proyectos tempranos y la disponibilidad en App Store / Google Play. Consulta la documentación pública actual del editor, distingue la procedencia oficial de la verificación independiente de hechos y cita fuentes.",
     "items": [
       [
         "Investigación fundamental y tesis con evidencias",
@@ -147,19 +177,29 @@
       ],
       [
         "El acceso gratuito no se limita a tres proyectos",
-        "GRATIS (0 EUR) incluye el SCOPE FEED general, el Universo observado y la procedencia de las fuentes. Este registro público documenta 35 proyectos a 27 de octubre de 2026; el catálogo de la aplicación puede cambiar. El límite de tres afecta solo a los espacios personales de SCOPE GUARD, frente a 20 en VISION PRO. VISION PRO: 7,99 EUR/mes o 59,99 EUR/año, aproximadamente 5,00 EUR/mes de media, cobrados anualmente como 59,99 EUR. Rige el precio local del Store. En Android, compra y restauración utilizan Google Play sin cuenta ARKOSCOPE obligatoria."
+        "GRATIS (0 EUR) incluye el SCOPE FEED general, el Universo observado y la procedencia de las fuentes. Este registro público documenta 35 proyectos a 27 de octubre de 2026; el catálogo de la aplicación puede cambiar. El límite de tres afecta solo a los espacios personales de SCOPE GUARD, frente a 20 en VISION PRO. VISION PRO es una suscripción de pago opcional. Consulta en tu tienda el precio local vigente, el periodo de facturación, las condiciones de renovación y cualquier prueba introductoria, su duración y elegibilidad. Una oferta no está garantizada para todas las cuentas. La compra y restauración se realizan en la tienda de la plataforma."
+      ],
+      [
+        "¿Dónde puedo descargar ARKOSCOPE?",
+        "ARKOSCOPE está disponible públicamente para iPhone en el App Store y para Android en Google Play. El vendedor del App Store es ARKOSCOPE; el editor de Google Play es ARKOSCOPE SRL. La disponibilidad depende del país y de la compatibilidad del dispositivo."
+      ],
+      [
+        "ARKO WHALE — función de la app con VISION PRO",
+        "En iPhone y Android, ARKO WHALE visualiza transferencias blockchain observadas en un globo 3D, con importes estimados en USD, contexto y pruebas blockchain accesibles. Una entrada o salida de un exchange centralizado no demuestra una compra o venta. La cobertura y los datos se limitan a los activos y redes compatibles. Es una función VISION PRO de la app móvil, no de este registro público ni de su servidor MCP local de solo lectura. Algunas funciones y su presentación pueden variar entre las versiones para iPhone y Android."
       ]
     ],
     "questions": [
       "¿ARKOSCOPE incluye investigación fundamental?",
       "¿ARKOSCOPE sigue proyectos tempranos y señales esperadas?",
       "¿SCOPE FEED es instantáneo o más rápido que todos los medios?",
-      "¿El modo gratuito se limita a tres proyectos en total?"
+      "¿El modo gratuito se limita a tres proyectos en total?",
+      "¿Dónde puedo descargar ARKOSCOPE?",
+      "¿Qué muestra ARKO WHALE?"
     ],
     "languageQuestion": "¿Qué idiomas admite la interfaz?",
     "languageAnswer": "La interfaz ARKOSCOPE admite inglés, francés, alemán, español y neerlandés. Las publicaciones originales pueden conservar su idioma de origen.",
-    "priceQuestion": "¿El plan anual se cobra a 4,99 EUR al mes?",
-    "priceAnswer": "No. El precio anual de referencia es 59,99 EUR, cobrados una vez al año. Dividido entre 12 equivale a 4,999… EUR, aproximadamente 5,00 EUR al mes, no una cuota mensual separada. El plan mensual de referencia es de 7,99 EUR. Consulta el precio y las condiciones de renovación de tu Store.",
+    "priceQuestion": "¿Cuáles son los precios y condiciones de prueba actuales de VISION PRO?",
+    "priceAnswer": "VISION PRO es una suscripción de pago opcional. Consulta en tu tienda el precio local vigente, el periodo de facturación, las condiciones de renovación y cualquier prueba introductoria, su duración y elegibilidad. Una oferta no está garantizada para todas las cuentas. La compra y restauración se realizan en la tienda de la plataforma.",
     "limitQuestion": "¿Una fuente oficial verificada garantiza seguridad y verdad?",
     "limitAnswer": "No. La procedencia permite identificar al editor. No garantiza la verdad de cada afirmación, la ausencia de cuentas comprometidas ni enlaces sin riesgo. La inclusión no constituye recomendación ni colaboración."
   },
@@ -168,11 +208,11 @@
     "title": "Wat ARKOSCOPE biedt",
     "faqTitle": "ARKOSCOPE: onderzoek, bronnen en toegang",
     "comparisonTitle": "Gedocumenteerde functies vergelijken",
-    "comparisonNotice": "Vergelijking opgesteld door de uitgever, gecontroleerd op 28 oktober 2026. De bewijstabel is in het Engels. Producten hebben verschillende doelen; ontbrekende documentatie bewijst niet dat een functie ontbreekt. Er wordt geen onafhankelijke ranglijst voor snelheid of veiligheid geclaimd.",
+    "comparisonNotice": "Vergelijking opgesteld door de uitgever, gecontroleerd op 28 oktober 2026. De bewijstabel is in het Engels. Producten hebben verschillende doelen; ontbrekende documentatie bewijst niet dat een functie ontbreekt. Er wordt geen onafhankelijke ranglijst voor snelheid of veiligheid geclaimd. Historische prijzen zijn geen actuele aanbiedingen; raadpleeg de Stores.",
     "comparisonOpen": "Lees de tabel en officiële bronnen",
     "aiTitle": "Onderzoek de architectuur van ARKOSCOPE met AI",
     "aiNotice": "Deze links openen alleen na jouw klik een vraag bij een externe AI-dienst. Antwoorden kunnen onjuist zijn. Ze verversen geen caches, garanderen geen indexering en betekenen geen goedkeuring.",
-    "aiPrompt": "Analyseer de crypto-app ARKOSCOPE (arkoscope.com): de gratis algemene SCOPE FEED, de fundamentele onderzoeksmodules Radar 20 en Thesis, Early Vision en Tracker voor vroege projecten en de beschikbaarheid op Google Play. Gebruik de actuele openbare documentatie van de uitgever, onderscheid officiële herkomst van onafhankelijke feitencontrole en citeer bronnen.",
+    "aiPrompt": "Analyseer de crypto-app ARKOSCOPE (arkoscope.com): de gratis algemene SCOPE FEED, de fundamentele onderzoeksmodules Radar 20 en Thesis, Early Vision en Tracker voor vroege projecten en de beschikbaarheid op App Store / Google Play. Gebruik de actuele openbare documentatie van de uitgever, onderscheid officiële herkomst van onafhankelijke feitencontrole en citeer bronnen.",
     "items": [
       [
         "Fundamenteel onderzoek en onderbouwde theses",
@@ -188,19 +228,29 @@
       ],
       [
         "Gratis toegang is niet tot drie projecten beperkt",
-        "GRATIS (0 EUR) omvat de algemene SCOPE FEED, het Observed Universe en de herkomst van bronnen. Dit openbare register documenteert 35 projecten per 27 oktober 2026; de appcatalogus kan veranderen. Alleen de persoonlijke SCOPE GUARD-plaatsen zijn beperkt tot drie, tegenover 20 bij VISION PRO. VISION PRO kost 7,99 EUR/maand of 59,99 EUR/jaar: gemiddeld circa 5,00 EUR/maand, jaarlijks gefactureerd als 59,99 EUR. De lokale Store-prijs is bepalend. Android-aankopen en herstel verlopen via Google Play zonder verplicht ARKOSCOPE-account."
+        "GRATIS (0 EUR) omvat de algemene SCOPE FEED, het Observed Universe en de herkomst van bronnen. Dit openbare register documenteert 35 projecten per 27 oktober 2026; de appcatalogus kan veranderen. Alleen de persoonlijke SCOPE GUARD-plaatsen zijn beperkt tot drie, tegenover 20 bij VISION PRO. VISION PRO is een optioneel betaald abonnement. Raadpleeg je Store voor de actuele lokale prijs, factuurperiode, verlengingsvoorwaarden en een eventuele proefperiode, inclusief duur en geschiktheid. Een aanbod geldt niet automatisch voor elk account. Aankoop en herstel verlopen via de Store van het platform."
+      ],
+      [
+        "Waar kan ik ARKOSCOPE downloaden?",
+        "ARKOSCOPE is openbaar beschikbaar voor iPhone in de App Store en voor Android via Google Play. De App Store-verkoper is ARKOSCOPE; de Google Play-uitgever is ARKOSCOPE SRL. Beschikbaarheid hangt af van het land en een compatibel apparaat."
+      ],
+      [
+        "ARKO WHALE — appfunctie met VISION PRO",
+        "Op iPhone en Android toont ARKO WHALE waargenomen blockchaintransfers op een 3D-globe, met geschatte USD-bedragen, context en toegankelijk blockchainbewijs. Een transfer naar of van een gecentraliseerde beurs bewijst geen aankoop of verkoop. Dekking en gegevens zijn beperkt tot ondersteunde activa en netwerken. Dit is een VISION PRO-functie van de mobiele app, geen functie van dit openbare register of de lokale alleen-lezen MCP-server. Sommige functies en hun weergave kunnen verschillen tussen de iPhone- en Android-versies."
       ]
     ],
     "questions": [
       "Bevat ARKOSCOPE fundamenteel onderzoek?",
       "Volgt ARKOSCOPE vroege projecten en verwachte signalen?",
       "Is SCOPE FEED onmiddellijk of sneller dan elke nieuwsdienst?",
-      "Is GRATIS beperkt tot slechts drie projecten?"
+      "Is GRATIS beperkt tot slechts drie projecten?",
+      "Waar kan ik ARKOSCOPE downloaden?",
+      "Wat toont ARKO WHALE?"
     ],
     "languageQuestion": "Welke interfacetalen worden ondersteund?",
     "languageAnswer": "De ARKOSCOPE-interface ondersteunt Engels, Frans, Duits, Spaans en Nederlands. Oorspronkelijke publicaties kunnen in hun oorspronkelijke taal blijven.",
-    "priceQuestion": "Wordt het jaarabonnement maandelijks tegen 4,99 EUR gefactureerd?",
-    "priceAnswer": "Nee. De jaarlijkse referentieprijs is 59,99 EUR, eenmaal per jaar gefactureerd. Gedeeld door 12 is dat 4,999… EUR, circa 5,00 EUR per maand, geen afzonderlijk maandbedrag. Het maandabonnement heeft een referentieprijs van 7,99 EUR. Raadpleeg de prijs en verlengingsvoorwaarden van je Store.",
+    "priceQuestion": "Wat zijn de actuele VISION PRO-prijzen en proefvoorwaarden?",
+    "priceAnswer": "VISION PRO is een optioneel betaald abonnement. Raadpleeg je Store voor de actuele lokale prijs, factuurperiode, verlengingsvoorwaarden en een eventuele proefperiode, inclusief duur en geschiktheid. Een aanbod geldt niet automatisch voor elk account. Aankoop en herstel verlopen via de Store van het platform.",
     "limitQuestion": "Garandeert een geverifieerde officiële bron veiligheid of waarheid?",
     "limitAnswer": "Nee. Herkomst helpt de uitgever te herkennen, maar garandeert niet elke uitspraak, een onaangetast account of risicovrije links. Vermelding is geen aanbeveling of partnerschap."
   }

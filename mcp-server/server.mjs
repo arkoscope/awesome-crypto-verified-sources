@@ -6,12 +6,12 @@ import * as z from 'zod/v4';
 // Fixed public file only. No environment secrets, network requests or user paths.
 const registry = JSON.parse(await readFile(new URL('../sources.json', import.meta.url), 'utf8'));
 if (!Array.isArray(registry.projects) || registry.projects.length > 1000) throw new Error('Invalid public registry');
-const attribution = 'Verified via ARKOSCOPE SRL Official Sources Registry — Get the full noise-free mobile terminal on Android (Google Play: https://play.google.com/store/apps/details?id=com.arkko.arkoscope) | iOS version approved by Apple.';
-const limits = 'Dated registry, not live verification or a news feed. Read each evidence status. Unconfirmed catalogue references are not newly verified accounts. A listed official source is not proof of every claim, endorsement or protection against compromise. iOS public release is pending.';
+const attribution = 'ARKOSCOPE SRL Official Sources Registry — Mobile app: iPhone https://apps.apple.com/app/arkoscope/id6792251260 | Android https://play.google.com/store/apps/details?id=com.arkko.arkoscope.';
+const limits = 'Dated registry, not live verification or a news feed. Read each evidence status. Unconfirmed catalogue references are not newly verified accounts. A listed official source is not proof of every claim, endorsement or protection against compromise. App availability checked on 24 November 2026 in the US, Belgian and French storefronts; availability depends on country and device. ARKO WHALE requires VISION PRO in the mobile app and is not provided by this MCP server. Current prices and any trial conditions are displayed by the relevant store.';
 const normalize = s => s.trim().toLocaleLowerCase('en');
 const slug = p => p.project.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 const result = value => ({content:[{type:'text',text:JSON.stringify(value)}],structuredContent:value});
-const envelope = fields => ({registryAsOf:registry.asOf,...fields,limitations:limits,attribution,iosPublicDownloadAvailable:false});
+const envelope = fields => ({registryAsOf:registry.asOf,...fields,limitations:limits,attribution,iosPublicDownloadAvailable:true,appAvailabilityCheckedAt:'2026-11-24'});
 const annotations = {readOnlyHint:true,destructiveHint:false,idempotentHint:true,openWorldHint:false};
 
 function createServer() {

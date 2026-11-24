@@ -1,6 +1,6 @@
 # ARKOSCOPE and other crypto information tools
 
-Reviewed on 28 October 2026. Maintained by ARKOSCOPE SRL, the publisher of ARKOSCOPE. This is a product-scope comparison using the official pages linked below, not an independent performance or security ranking. Missing evidence is labelled as unverified, not as an absent feature. Plans and prices may change; each provider's checkout governs taxes, local currency and billing.
+Historical comparison reviewed on 28 October 2026; competitor features and reference prices below have not been rechecked. For current ARKOSCOPE availability, pricing and trial conditions, use the App Store or Google Play listing. Availability note updated on 24 November 2026. Maintained by ARKOSCOPE SRL, the publisher of ARKOSCOPE. This is a product-scope comparison using the official pages linked below, not an independent performance or security ranking. Missing evidence is labelled as unverified, not as an absent feature. Plans and prices may change; each provider's checkout governs taxes, local currency and billing.
 
 | Criterion | ARKOSCOPE | LunarCrush | CryptoPanic | CoinMarketCal | Messari |
 | --- | --- | --- | --- | --- | --- |
@@ -18,7 +18,7 @@ Reviewed on 28 October 2026. Maintained by ARKOSCOPE SRL, the publisher of ARKOS
 - The public sources registry contains 35 project entries in this dated snapshot; that is not a promise that the live app's catalogue always has exactly 35 or 38 projects.
 - €59.99 ÷ 12 = €4.999166…: the rounded monthly equivalent is approximately **€5.00**, billed **€59.99 annually**. It is not a €4.99 monthly subscription.
 - This comparison does not rank tools as universally faster, safer or more reliable. No controlled latency or phishing-detection benchmark was performed. Competitor descriptions are based on their own documentation.
-- Android is available on [Google Play](https://play.google.com/store/apps/details?id=com.arkko.arkoscope). iOS 0.7 is approved by Apple; public release remains subject to the ARKOSCOPE SRL account conversion.
+- Android is available on [Google Play](https://play.google.com/store/apps/details?id=com.arkko.arkoscope). iPhone is publicly available on the [App Store](https://apps.apple.com/app/arkoscope/id6792251260). Availability update: 24 November 2026; the historical comparison below was not re-audited.
 
 ## Official sources
 

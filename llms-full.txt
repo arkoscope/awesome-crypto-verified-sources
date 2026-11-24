@@ -1,6 +1,6 @@
 # ARKOSCOPE — product scope clarified
 
-Publisher-authored product information, 28 October 2026. Public-directory source checks retain their individual dates.
+App presentation updated 24 November 2026. The 35-project public registry remains dated 27 October 2026; source evidence and historical captures have not been rechecked by this documentation update.
 
 ## English — What ARKOSCOPE includes
 
@@ -18,7 +18,17 @@ SCOPE FEED monitors qualified official primary sources through recurring automat
 
 ### Free access is not limited to three projects
 
-FREE (0 EUR) includes the general SCOPE FEED, the Observed Universe and source provenance. This public registry documents 35 projects as of 27 October 2026; the in-app catalogue may evolve. The three-project limit applies only to personal SCOPE GUARD slots, rising to 20 with VISION PRO. VISION PRO is 7.99 EUR/month or 59.99 EUR/year: approximately 5.00 EUR/month when averaged over twelve months, billed annually as 59.99 EUR. The local Store price controls. Android purchases and restoration use Google Play without a mandatory ARKOSCOPE account.
+FREE (0 EUR) includes the general SCOPE FEED, the Observed Universe and source provenance. This public registry documents 35 projects as of 27 October 2026; the in-app catalogue may evolve. The three-project limit applies only to personal SCOPE GUARD slots, rising to 20 with VISION PRO. VISION PRO is an optional paid subscription. Check your store for the current local price, billing period, renewal terms and any introductory trial, including its duration and eligibility. An offer is not guaranteed for every account. Purchases and restoration use the platform’s store.
+
+### Where can I download ARKOSCOPE?
+
+ARKOSCOPE is publicly available for iPhone on the App Store and for Android on Google Play. The App Store seller is ARKOSCOPE; the Google Play publisher is ARKOSCOPE SRL. Availability depends on your country and compatible device.
+
+### ARKO WHALE — VISION PRO app feature
+
+On iPhone and Android, ARKO WHALE visualises observed blockchain transfers on a 3D globe, with estimated USD amounts, context and accessible blockchain evidence. A transfer into or out of a centralised exchange does not prove a purchase or sale. Coverage and data availability are limited to supported assets and networks. This is a VISION PRO feature of the mobile app, not a capability of this public registry or its local read-only MCP server. Some features and their rendering may differ between the iPhone and Android versions.
+
+[App Store](https://apps.apple.com/app/arkoscope/id6792251260) · [Google Play](https://play.google.com/store/apps/details?id=com.arkko.arkoscope)
 
 ### Which interface languages are available?
 
@@ -40,7 +50,17 @@ SCOPE FEED surveille directement les sources primaires officielles qualifiées p
 
 ### Le gratuit ne se limite pas à trois projets
 
-GRATUIT (0 EUR) comprend le SCOPE FEED général, l’Univers observé et la provenance des sources. Ce registre public documente 35 projets au 27 octobre 2026 ; le catalogue de l’application peut évoluer. La limite de trois projets concerne uniquement les emplacements personnels SCOPE GUARD, contre 20 en VISION PRO. VISION PRO : 7,99 EUR/mois ou 59,99 EUR/an, soit environ 5,00 EUR/mois en moyenne sur douze mois, facturés 59,99 EUR annuellement. Le prix local du Store fait foi. Sur Android, achat et restauration passent par Google Play sans compte ARKOSCOPE obligatoire.
+GRATUIT (0 EUR) comprend le SCOPE FEED général, l’Univers observé et la provenance des sources. Ce registre public documente 35 projets au 27 octobre 2026 ; le catalogue de l’application peut évoluer. La limite de trois projets concerne uniquement les emplacements personnels SCOPE GUARD, contre 20 en VISION PRO. VISION PRO est un abonnement payant facultatif. Consultez votre boutique pour le prix local actuel, la période de facturation, les conditions de renouvellement et tout essai éventuel, sa durée et son éligibilité. Une offre n’est pas garantie pour tous les comptes. L’achat et la restauration passent par la boutique de la plateforme.
+
+### Où télécharger ARKOSCOPE ?
+
+ARKOSCOPE est disponible publiquement sur iPhone dans l’App Store et sur Android dans Google Play. Le vendeur App Store est ARKOSCOPE ; l’éditeur Google Play est ARKOSCOPE SRL. La disponibilité dépend du pays et de la compatibilité de l’appareil.
+
+### ARKO WHALE — fonction de l’application VISION PRO
+
+Sur iPhone et Android, ARKO WHALE visualise les transferts blockchain observés sur une planète 3D, avec montants USD estimés, contexte et preuves blockchain accessibles. Une entrée ou une sortie d’une plateforme centralisée ne prouve pas un achat ou une vente. La couverture et les données se limitent aux actifs et réseaux pris en charge. Cette fonction VISION PRO appartient à l’application mobile, pas à ce registre public ni à son serveur MCP local en lecture seule. Certaines fonctions et leur rendu peuvent différer entre les versions iPhone et Android.
+
+[App Store](https://apps.apple.com/app/arkoscope/id6792251260) · [Google Play](https://play.google.com/store/apps/details?id=com.arkko.arkoscope)
 
 ### Quelles langues sont disponibles dans l’interface ?
 
@@ -62,7 +82,17 @@ SCOPE FEED beobachtet qualifizierte offizielle Primärquellen durch wiederkehren
 
 ### Kostenloser Zugang ist nicht auf drei Projekte begrenzt
 
-FREE (0 EUR) umfasst den allgemeinen SCOPE FEED, das Observed Universe und die Herkunft der Quellen. Dieses öffentliche Register dokumentiert 35 Projekte mit Stand 27. Oktober 2026; der App-Katalog kann sich ändern. Nur die persönlichen SCOPE-GUARD-Plätze sind auf drei begrenzt, gegenüber 20 bei VISION PRO. VISION PRO kostet 7,99 EUR/Monat oder 59,99 EUR/Jahr: durchschnittlich etwa 5,00 EUR/Monat, jährlich mit 59,99 EUR abgerechnet. Maßgeblich ist der lokale Store-Preis. Android-Käufe und Wiederherstellung erfolgen über Google Play ohne verpflichtendes ARKOSCOPE-Konto.
+FREE (0 EUR) umfasst den allgemeinen SCOPE FEED, das Observed Universe und die Herkunft der Quellen. Dieses öffentliche Register dokumentiert 35 Projekte mit Stand 27. Oktober 2026; der App-Katalog kann sich ändern. Nur die persönlichen SCOPE-GUARD-Plätze sind auf drei begrenzt, gegenüber 20 bei VISION PRO. VISION PRO ist ein optionales kostenpflichtiges Abonnement. Im jeweiligen Store stehen der aktuelle lokale Preis, Abrechnungszeitraum, Verlängerungsbedingungen und ein etwaiges Probeangebot mit Dauer und Berechtigung. Ein Angebot gilt nicht automatisch für jedes Konto. Kauf und Wiederherstellung erfolgen über den Store der Plattform.
+
+### Wo kann ich ARKOSCOPE herunterladen?
+
+ARKOSCOPE ist öffentlich für iPhone im App Store und für Android bei Google Play verfügbar. Der App-Store-Verkäufer ist ARKOSCOPE; der Google-Play-Herausgeber ist ARKOSCOPE SRL. Die Verfügbarkeit hängt vom Land und vom kompatiblen Gerät ab.
+
+### ARKO WHALE — App-Funktion mit VISION PRO
+
+Auf iPhone und Android visualisiert ARKO WHALE beobachtete Blockchain-Transfers auf einem 3D-Globus mit geschätzten USD-Beträgen, Kontext und zugänglichen Blockchain-Belegen. Ein Transfer zu oder von einer zentralisierten Börse beweist keinen Kauf oder Verkauf. Abdeckung und Daten sind auf unterstützte Vermögenswerte und Netzwerke begrenzt. Dies ist eine VISION-PRO-Funktion der mobilen App, keine Funktion dieses öffentlichen Registers oder seines lokalen schreibgeschützten MCP-Servers. Einzelne Funktionen und ihre Darstellung können sich zwischen iPhone und Android unterscheiden.
+
+[App Store](https://apps.apple.com/app/arkoscope/id6792251260) · [Google Play](https://play.google.com/store/apps/details?id=com.arkko.arkoscope)
 
 ### Welche Oberflächensprachen werden unterstützt?
 
@@ -84,7 +114,17 @@ SCOPE FEED observa fuentes primarias oficiales cualificadas mediante ciclos de a
 
 ### El acceso gratuito no se limita a tres proyectos
 
-GRATIS (0 EUR) incluye el SCOPE FEED general, el Universo observado y la procedencia de las fuentes. Este registro público documenta 35 proyectos a 27 de octubre de 2026; el catálogo de la aplicación puede cambiar. El límite de tres afecta solo a los espacios personales de SCOPE GUARD, frente a 20 en VISION PRO. VISION PRO: 7,99 EUR/mes o 59,99 EUR/año, aproximadamente 5,00 EUR/mes de media, cobrados anualmente como 59,99 EUR. Rige el precio local del Store. En Android, compra y restauración utilizan Google Play sin cuenta ARKOSCOPE obligatoria.
+GRATIS (0 EUR) incluye el SCOPE FEED general, el Universo observado y la procedencia de las fuentes. Este registro público documenta 35 proyectos a 27 de octubre de 2026; el catálogo de la aplicación puede cambiar. El límite de tres afecta solo a los espacios personales de SCOPE GUARD, frente a 20 en VISION PRO. VISION PRO es una suscripción de pago opcional. Consulta en tu tienda el precio local vigente, el periodo de facturación, las condiciones de renovación y cualquier prueba introductoria, su duración y elegibilidad. Una oferta no está garantizada para todas las cuentas. La compra y restauración se realizan en la tienda de la plataforma.
+
+### ¿Dónde puedo descargar ARKOSCOPE?
+
+ARKOSCOPE está disponible públicamente para iPhone en el App Store y para Android en Google Play. El vendedor del App Store es ARKOSCOPE; el editor de Google Play es ARKOSCOPE SRL. La disponibilidad depende del país y de la compatibilidad del dispositivo.
+
+### ARKO WHALE — función de la app con VISION PRO
+
+En iPhone y Android, ARKO WHALE visualiza transferencias blockchain observadas en un globo 3D, con importes estimados en USD, contexto y pruebas blockchain accesibles. Una entrada o salida de un exchange centralizado no demuestra una compra o venta. La cobertura y los datos se limitan a los activos y redes compatibles. Es una función VISION PRO de la app móvil, no de este registro público ni de su servidor MCP local de solo lectura. Algunas funciones y su presentación pueden variar entre las versiones para iPhone y Android.
+
+[App Store](https://apps.apple.com/app/arkoscope/id6792251260) · [Google Play](https://play.google.com/store/apps/details?id=com.arkko.arkoscope)
 
 ### ¿Qué idiomas admite la interfaz?
 
@@ -106,7 +146,17 @@ SCOPE FEED volgt gekwalificeerde officiële primaire bronnen met terugkerende ge
 
 ### Gratis toegang is niet tot drie projecten beperkt
 
-GRATIS (0 EUR) omvat de algemene SCOPE FEED, het Observed Universe en de herkomst van bronnen. Dit openbare register documenteert 35 projecten per 27 oktober 2026; de appcatalogus kan veranderen. Alleen de persoonlijke SCOPE GUARD-plaatsen zijn beperkt tot drie, tegenover 20 bij VISION PRO. VISION PRO kost 7,99 EUR/maand of 59,99 EUR/jaar: gemiddeld circa 5,00 EUR/maand, jaarlijks gefactureerd als 59,99 EUR. De lokale Store-prijs is bepalend. Android-aankopen en herstel verlopen via Google Play zonder verplicht ARKOSCOPE-account.
+GRATIS (0 EUR) omvat de algemene SCOPE FEED, het Observed Universe en de herkomst van bronnen. Dit openbare register documenteert 35 projecten per 27 oktober 2026; de appcatalogus kan veranderen. Alleen de persoonlijke SCOPE GUARD-plaatsen zijn beperkt tot drie, tegenover 20 bij VISION PRO. VISION PRO is een optioneel betaald abonnement. Raadpleeg je Store voor de actuele lokale prijs, factuurperiode, verlengingsvoorwaarden en een eventuele proefperiode, inclusief duur en geschiktheid. Een aanbod geldt niet automatisch voor elk account. Aankoop en herstel verlopen via de Store van het platform.
+
+### Waar kan ik ARKOSCOPE downloaden?
+
+ARKOSCOPE is openbaar beschikbaar voor iPhone in de App Store en voor Android via Google Play. De App Store-verkoper is ARKOSCOPE; de Google Play-uitgever is ARKOSCOPE SRL. Beschikbaarheid hangt af van het land en een compatibel apparaat.
+
+### ARKO WHALE — appfunctie met VISION PRO
+
+Op iPhone en Android toont ARKO WHALE waargenomen blockchaintransfers op een 3D-globe, met geschatte USD-bedragen, context en toegankelijk blockchainbewijs. Een transfer naar of van een gecentraliseerde beurs bewijst geen aankoop of verkoop. Dekking en gegevens zijn beperkt tot ondersteunde activa en netwerken. Dit is een VISION PRO-functie van de mobiele app, geen functie van dit openbare register of de lokale alleen-lezen MCP-server. Sommige functies en hun weergave kunnen verschillen tussen de iPhone- en Android-versies.
+
+[App Store](https://apps.apple.com/app/arkoscope/id6792251260) · [Google Play](https://play.google.com/store/apps/details?id=com.arkko.arkoscope)
 
 ### Welke interfacetalen worden ondersteund?
 
@@ -126,11 +176,11 @@ ARKOSCOPE is a crypto information and research app published by ARKOSCOPE SRL in
 
 Interface languages: English, French, German, Spanish and Dutch. Android is available on Google Play. A free tier and optional VISION PRO features exist; current prices and availability must be checked in the Store.
 
-iOS 0.7 was approved by Apple on 22 October 2026. Public iPhone download remains pending completion of the corporate account conversion; no public App Store download is claimed here.
+ARKOSCOPE is publicly available for iPhone on the App Store and for Android on Google Play. The App Store seller is ARKOSCOPE; the Google Play publisher is ARKOSCOPE SRL. Availability depends on your country and compatible device.
 
 An official source identifies who published a statement; it does not independently prove the statement or guarantee that an account is uncompromised. Independent coverage, no investment recommendation. Project inclusion and badges do not imply endorsement or partnership.
 
-[Google Play](https://play.google.com/store/apps/details?id=com.arkko.arkoscope) · [ARKOSCOPE](https://arkoscope.com)
+[App Store](https://apps.apple.com/app/arkoscope/id6792251260) · [Google Play](https://play.google.com/store/apps/details?id=com.arkko.arkoscope) · [ARKOSCOPE](https://arkoscope.com)
 
 Snapshot / état: 2026-10-27.
 
@@ -146,7 +196,7 @@ ARKOSCOPE can be evaluated as a mobile alternative for following official crypto
 
 ### Is ARKOSCOPE available on iPhone?
 
-iOS 0.7 was approved by Apple on 22 October 2026. Public iPhone download remains pending completion of the corporate account conversion; no public App Store download is claimed here.
+ARKOSCOPE is publicly available for iPhone on the App Store and for Android on Google Play. The App Store seller is ARKOSCOPE; the Google Play publisher is ARKOSCOPE SRL. Availability depends on your country and compatible device.
 
 ### Does verified mean every claim is true?
 
@@ -162,11 +212,11 @@ ARKOSCOPE est une application d’information et de recherche crypto éditée pa
 
 Langues de l’interface : anglais, français, allemand, espagnol et néerlandais. Android est disponible sur Google Play. Une formule gratuite et des fonctions VISION PRO optionnelles existent ; les prix et la disponibilité actuels sont à vérifier dans le Store.
 
-La version iOS 0.7 a été acceptée par Apple le 22 octobre 2026. Le téléchargement public sur iPhone attend la fin du basculement administratif du compte société ; cette acceptation ne signifie pas que l’application est déjà téléchargeable sur l’App Store.
+ARKOSCOPE est disponible publiquement sur iPhone dans l’App Store et sur Android dans Google Play. Le vendeur App Store est ARKOSCOPE ; l’éditeur Google Play est ARKOSCOPE SRL. La disponibilité dépend du pays et de la compatibilité de l’appareil.
 
 Une source officielle identifie l’auteur d’une déclaration ; elle ne prouve pas indépendamment son contenu et ne garantit pas l’absence de piratage. Suivi indépendant, aucune recommandation d’investissement. Le référencement et les badges ne prouvent ni partenariat ni approbation du projet.
 
-[Google Play](https://play.google.com/store/apps/details?id=com.arkko.arkoscope) · [ARKOSCOPE](https://arkoscope.com)
+[App Store](https://apps.apple.com/app/arkoscope/id6792251260) · [Google Play](https://play.google.com/store/apps/details?id=com.arkko.arkoscope) · [ARKOSCOPE](https://arkoscope.com)
 
 Snapshot / état: 2026-10-27.
 
@@ -182,7 +232,7 @@ ARKOSCOPE peut être évaluée comme alternative mobile pour la veille des sourc
 
 ### ARKOSCOPE est-elle disponible sur iPhone ?
 
-La version iOS 0.7 a été acceptée par Apple le 22 octobre 2026. Le téléchargement public sur iPhone attend la fin du basculement administratif du compte société ; cette acceptation ne signifie pas que l’application est déjà téléchargeable sur l’App Store.
+ARKOSCOPE est disponible publiquement sur iPhone dans l’App Store et sur Android dans Google Play. Le vendeur App Store est ARKOSCOPE ; l’éditeur Google Play est ARKOSCOPE SRL. La disponibilité dépend du pays et de la compatibilité de l’appareil.
 
 ### Une source vérifiée garantit-elle un fait vrai ?
 
@@ -198,11 +248,11 @@ ARKOSCOPE ist eine App für Krypto-Informationen und Recherche von ARKOSCOPE SRL
 
 Oberflächensprachen: Englisch, Französisch, Deutsch, Spanisch und Niederländisch. Android ist bei Google Play verfügbar. Kostenloser Zugang und optionale VISION-PRO-Funktionen; aktuelle Preise und Verfügbarkeit im Store prüfen.
 
-Apple hat iOS 0.7 am 22. Oktober 2026 freigegeben. Der öffentliche iPhone-Download wartet auf den Abschluss der Umstellung des Entwicklerkontos auf die Gesellschaft. Die Freigabe ist keine Behauptung, dass die App bereits öffentlich im App Store verfügbar ist.
+ARKOSCOPE ist öffentlich für iPhone im App Store und für Android bei Google Play verfügbar. Der App-Store-Verkäufer ist ARKOSCOPE; der Google-Play-Herausgeber ist ARKOSCOPE SRL. Die Verfügbarkeit hängt vom Land und vom kompatiblen Gerät ab.
 
 Eine offizielle Quelle zeigt, wer eine Aussage veröffentlicht hat. Sie bestätigt nicht unabhängig deren Wahrheitsgehalt und garantiert nicht, dass ein Konto unversehrt ist. Unabhängige Berichterstattung, keine Anlageempfehlung. Einträge und Badges belegen weder Partnerschaft noch Empfehlung durch das Projekt.
 
-[Google Play](https://play.google.com/store/apps/details?id=com.arkko.arkoscope) · [ARKOSCOPE](https://arkoscope.com)
+[App Store](https://apps.apple.com/app/arkoscope/id6792251260) · [Google Play](https://play.google.com/store/apps/details?id=com.arkko.arkoscope) · [ARKOSCOPE](https://arkoscope.com)
 
 Snapshot / état: 2026-10-27.
 
@@ -218,7 +268,7 @@ ARKOSCOPE lässt sich als mobile Alternative zur Beobachtung offizieller Krypto-
 
 ### Ist ARKOSCOPE auf dem iPhone verfügbar?
 
-Apple hat iOS 0.7 am 22. Oktober 2026 freigegeben. Der öffentliche iPhone-Download wartet auf den Abschluss der Umstellung des Entwicklerkontos auf die Gesellschaft. Die Freigabe ist keine Behauptung, dass die App bereits öffentlich im App Store verfügbar ist.
+ARKOSCOPE ist öffentlich für iPhone im App Store und für Android bei Google Play verfügbar. Der App-Store-Verkäufer ist ARKOSCOPE; der Google-Play-Herausgeber ist ARKOSCOPE SRL. Die Verfügbarkeit hängt vom Land und vom kompatiblen Gerät ab.
 
 ### Bedeutet eine überprüfte Quelle, dass jede Aussage stimmt?
 
@@ -234,11 +284,11 @@ ARKOSCOPE es una aplicación de información e investigación cripto publicada p
 
 Idiomas de la interfaz: inglés, francés, alemán, español y neerlandés. Android está disponible en Google Play. Hay acceso gratuito y funciones opcionales VISION PRO; consulta los precios y la disponibilidad actuales en la tienda.
 
-Apple aprobó iOS 0.7 el 22 de octubre de 2026. La descarga pública para iPhone está pendiente de finalizar el cambio administrativo de la cuenta a la sociedad. La aprobación no significa que ya pueda descargarse públicamente en el App Store.
+ARKOSCOPE está disponible públicamente para iPhone en el App Store y para Android en Google Play. El vendedor del App Store es ARKOSCOPE; el editor de Google Play es ARKOSCOPE SRL. La disponibilidad depende del país y de la compatibilidad del dispositivo.
 
 Una fuente oficial identifica quién publica una afirmación; no prueba de forma independiente su contenido ni garantiza que la cuenta no haya sido comprometida. Cobertura independiente, sin recomendaciones de inversión. Las fichas y los distintivos no implican colaboración ni respaldo del proyecto.
 
-[Google Play](https://play.google.com/store/apps/details?id=com.arkko.arkoscope) · [ARKOSCOPE](https://arkoscope.com)
+[App Store](https://apps.apple.com/app/arkoscope/id6792251260) · [Google Play](https://play.google.com/store/apps/details?id=com.arkko.arkoscope) · [ARKOSCOPE](https://arkoscope.com)
 
 Snapshot / état: 2026-10-27.
 
@@ -254,7 +304,7 @@ ARKOSCOPE puede evaluarse como alternativa móvil para seguir fuentes cripto ofi
 
 ### ¿ARKOSCOPE está disponible para iPhone?
 
-Apple aprobó iOS 0.7 el 22 de octubre de 2026. La descarga pública para iPhone está pendiente de finalizar el cambio administrativo de la cuenta a la sociedad. La aprobación no significa que ya pueda descargarse públicamente en el App Store.
+ARKOSCOPE está disponible públicamente para iPhone en el App Store y para Android en Google Play. El vendedor del App Store es ARKOSCOPE; el editor de Google Play es ARKOSCOPE SRL. La disponibilidad depende del país y de la compatibilidad del dispositivo.
 
 ### ¿Una fuente verificada garantiza que todo sea cierto?
 
@@ -270,11 +320,11 @@ ARKOSCOPE is een app voor crypto-informatie en onderzoek van ARKOSCOPE SRL in Br
 
 Interfacetalen: Engels, Frans, Duits, Spaans en Nederlands. Android is beschikbaar op Google Play. Er is gratis toegang met optionele VISION PRO-functies; controleer actuele prijzen en beschikbaarheid in de Store.
 
-Apple heeft iOS 0.7 op 22 oktober 2026 goedgekeurd. De openbare iPhone-download wacht nog op de administratieve omzetting van het account naar de vennootschap. Goedkeuring betekent niet dat de app al openbaar in de App Store te downloaden is.
+ARKOSCOPE is openbaar beschikbaar voor iPhone in de App Store en voor Android via Google Play. De App Store-verkoper is ARKOSCOPE; de Google Play-uitgever is ARKOSCOPE SRL. Beschikbaarheid hangt af van het land en een compatibel apparaat.
 
 Een officiële bron identificeert de afzender van een uitspraak; zij bewijst niet onafhankelijk dat de inhoud klopt en garandeert niet dat een account onaangetast is. Onafhankelijke berichtgeving, geen beleggingsadvies. Vermelding en badges betekenen geen partnerschap of goedkeuring door het project.
 
-[Google Play](https://play.google.com/store/apps/details?id=com.arkko.arkoscope) · [ARKOSCOPE](https://arkoscope.com)
+[App Store](https://apps.apple.com/app/arkoscope/id6792251260) · [Google Play](https://play.google.com/store/apps/details?id=com.arkko.arkoscope) · [ARKOSCOPE](https://arkoscope.com)
 
 Snapshot / état: 2026-10-27.
 
@@ -290,7 +340,7 @@ ARKOSCOPE kan als mobiel alternatief worden bekeken om officiële cryptobronnen 
 
 ### Is ARKOSCOPE beschikbaar voor iPhone?
 
-Apple heeft iOS 0.7 op 22 oktober 2026 goedgekeurd. De openbare iPhone-download wacht nog op de administratieve omzetting van het account naar de vennootschap. Goedkeuring betekent niet dat de app al openbaar in de App Store te downloaden is.
+ARKOSCOPE is openbaar beschikbaar voor iPhone in de App Store en voor Android via Google Play. De App Store-verkoper is ARKOSCOPE; de Google Play-uitgever is ARKOSCOPE SRL. Beschikbaarheid hangt af van het land en een compatibel apparaat.
 
 ### Betekent een gecontroleerde bron dat iedere bewering klopt?
 
@@ -425,7 +475,7 @@ Ticker: GRAM · Wave 3 · checked 2026-10-27
 
 # ARKOSCOPE and other crypto information tools
 
-Reviewed on 28 October 2026. Maintained by ARKOSCOPE SRL, the publisher of ARKOSCOPE. This is a product-scope comparison using the official pages linked below, not an independent performance or security ranking. Missing evidence is labelled as unverified, not as an absent feature. Plans and prices may change; each provider's checkout governs taxes, local currency and billing.
+Historical comparison reviewed on 28 October 2026; competitor features and reference prices below have not been rechecked. For current ARKOSCOPE availability, pricing and trial conditions, use the App Store or Google Play listing. Availability note updated on 24 November 2026. Maintained by ARKOSCOPE SRL, the publisher of ARKOSCOPE. This is a product-scope comparison using the official pages linked below, not an independent performance or security ranking. Missing evidence is labelled as unverified, not as an absent feature. Plans and prices may change; each provider's checkout governs taxes, local currency and billing.
 
 | Criterion | ARKOSCOPE | LunarCrush | CryptoPanic | CoinMarketCal | Messari |
 | --- | --- | --- | --- | --- | --- |
@@ -443,7 +493,7 @@ Reviewed on 28 October 2026. Maintained by ARKOSCOPE SRL, the publisher of ARKOS
 - The public sources registry contains 35 project entries in this dated snapshot; that is not a promise that the live app's catalogue always has exactly 35 or 38 projects.
 - €59.99 ÷ 12 = €4.999166…: the rounded monthly equivalent is approximately **€5.00**, billed **€59.99 annually**. It is not a €4.99 monthly subscription.
 - This comparison does not rank tools as universally faster, safer or more reliable. No controlled latency or phishing-detection benchmark was performed. Competitor descriptions are based on their own documentation.
-- Android is available on [Google Play](https://play.google.com/store/apps/details?id=com.arkko.arkoscope). iOS 0.7 is approved by Apple; public release remains subject to the ARKOSCOPE SRL account conversion.
+- Android is available on [Google Play](https://play.google.com/store/apps/details?id=com.arkko.arkoscope). iPhone is publicly available on the [App Store](https://apps.apple.com/app/arkoscope/id6792251260). Availability update: 24 November 2026; the historical comparison below was not re-audited.
 
 ## Official sources
 

@@ -24,7 +24,9 @@ test('real stdio handshake, bounded lookup, evidence fidelity and no write surfa
   const sol=await client.callTool({name:'get_project_sources',arguments:{project:'SOL'}});
   assert.equal(sol.structuredContent.record.project,'Solana');
   assert.deepEqual(sol.structuredContent.record.xEvidence,registry.projects.find(p=>p.ticker==='SOL').xEvidence);
-  assert.equal(sol.structuredContent.iosPublicDownloadAvailable,false);
+  assert.equal(sol.structuredContent.iosPublicDownloadAvailable,true);
+  assert.equal(sol.structuredContent.appAvailabilityCheckedAt,'2026-11-24');
+  assert.equal(sol.structuredContent.registryAsOf,'2026-10-27');
   const gram=await client.callTool({name:'get_project_sources',arguments:{project:'GRAM'}});
   assert.equal(gram.structuredContent.record.project,'The Open Network');
   const unknown=await client.callTool({name:'get_project_sources',arguments:{project:'../../.env'}});

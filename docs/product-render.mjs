@@ -2,7 +2,7 @@ import fs from 'node:fs';
 const product=JSON.parse(fs.readFileSync(new URL('./product-clarifications.json',import.meta.url),'utf8'));
 const comparison=JSON.parse(fs.readFileSync(new URL('./comparison.json',import.meta.url),'utf8'));
 const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-export const contentDate='2026-10-28';
+export const contentDate='2026-11-24';
 export function questions(lang){const t=product[lang];return [...t.questions.map((q,i)=>[q,t.items[i][1]]),[t.languageQuestion,t.languageAnswer],[t.priceQuestion,t.priceAnswer],[t.limitQuestion,t.limitAnswer]];}
 export function faqSchema(lang,canonical){return {'@context':'https://schema.org','@type':'FAQPage','@id':canonical+'#product-faq',inLanguage:lang,mainEntity:questions(lang).map(([q,a])=>({'@type':'Question',name:q,acceptedAnswer:{'@type':'Answer',text:a}}))};}
 export function productMarkup(lang){const t=product[lang];return `<section class="product-clarifications" id="product-scope"><p class="eyebrow">ARKOSCOPE / ${contentDate}</p><h2>${esc(t.title)}</h2><div class="feature-grid">${t.items.map(([h,p])=>`<article><h3>${esc(h)}</h3><p>${esc(p)}</p></article>`).join('')}</div></section><section class="product-faq" id="product-faq"><h2>${esc(t.faqTitle)}</h2>${questions(lang).map(([q,a])=>`<details><summary>${esc(q)}</summary><p>${esc(a)}</p></details>`).join('')}</section>`;}
